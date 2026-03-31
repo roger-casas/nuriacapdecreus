@@ -1,0 +1,833 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.301887,
+          42.375592
+        ]
+      },
+      "properties": {
+        "id": "town-setcases",
+        "label": "Setcases",
+        "kind": "town",
+        "optional": false,
+        "displayName": "Setcases",
+        "geocodeStatus": "track-derived",
+        "geocodeQuery": "stage09",
+        "description": "Setcases és un municipi de la comarca del Ripollès. És la capçalera del riu Ter. Està situat a l'extrem nord de la regió de l'Alt Ter.",
+        "photo": "/images/highlights/town-setcases.png",
+        "photoCredit": "https://ca.wikipedia.org/wiki/Setcases",
+        "photoTitle": "Setcases"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.480476,
+          42.320977
+        ]
+      },
+      "properties": {
+        "id": "town-beget",
+        "label": "Beget",
+        "kind": "town",
+        "optional": false,
+        "displayName": "Beget",
+        "geocodeStatus": "track-derived",
+        "geocodeQuery": "stage08",
+        "description": "Beget",
+        "photo": null,
+        "photoCredit": "",
+        "photoTitle": "Beget"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.719552,
+          42.305448
+        ]
+      },
+      "properties": {
+        "id": "town-albanya",
+        "label": "Albanyà",
+        "kind": "town",
+        "optional": false,
+        "displayName": "Albanyà",
+        "geocodeStatus": "track-derived",
+        "geocodeQuery": "stage06",
+        "description": "Albanyà",
+        "photo": null,
+        "photoCredit": "",
+        "photoTitle": "Albanyà"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.067173,
+          42.375323
+        ]
+      },
+      "properties": {
+        "id": "town-vilamaniscle",
+        "label": "Vilamaniscle",
+        "kind": "town",
+        "optional": false,
+        "displayName": "Vilamaniscle",
+        "geocodeStatus": "track-derived",
+        "geocodeQuery": "stage03",
+        "description": "Vilamaniscle és un municipi de la comarca de l'Alt Empordà. Situat a la part occidental de la serra de la Baga d'en Ferran, branca de la serra de l'Albera està cobert en bona part del seu territori amb boscos de pins i alzines sureres. S'hi conreen oliveres i vinya. El seu vi és apreciat a tota la comarca. S'han creat nous serveis d'allotjament degut al turisme creixent que té.",
+        "photo": "/images/highlights/town-vilamaniscle.jpg",
+        "photoCredit": "https://ca.wikipedia.org/wiki/Vilamaniscle",
+        "photoTitle": "Vilamaniscle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.20366,
+          42.3378
+        ]
+      },
+      "properties": {
+        "id": "town-port-selva",
+        "label": "El Port de la Selva",
+        "kind": "town",
+        "optional": false,
+        "displayName": "El Port de la Selva",
+        "geocodeStatus": "track-derived",
+        "geocodeQuery": "stage01",
+        "description": "El Port de la Selva",
+        "photo": null,
+        "photoCredit": "",
+        "photoTitle": "El Port de la Selva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.274355,
+          42.289873
+        ]
+      },
+      "properties": {
+        "id": "town-cadaques",
+        "label": "Cadaqués",
+        "kind": "town",
+        "optional": false,
+        "displayName": "Cadaqués",
+        "geocodeStatus": "track-derived",
+        "geocodeQuery": "capCreus19",
+        "description": "Cadaqués",
+        "photo": null,
+        "photoCredit": "",
+        "photoTitle": "Cadaqués"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.153836,
+          42.396683
+        ]
+      },
+      "properties": {
+        "id": "vall-nuria",
+        "label": "Vall de Núria",
+        "kind": "highlight",
+        "optional": false,
+        "displayName": "Vall de Núria",
+        "geocodeStatus": "track-derived",
+        "geocodeQuery": "stage09",
+        "description": "La vall de Núria és una vall pirinenca al terme municipal de Queralbs, a la comarca del Ripollès, a les Comarques Gironines. Es troba a una altitud de 1.964 metres sobre el nivell del mar, envoltada de cims de gairebé tres mil metres, on neixen una multitud de fonts i torrents. Per raó de la seva situació geogràfica i el clima, presenta una flora i una fauna característiques de la muntanya medioeuropea i de l'alta muntanya alpina. A més, hi viuen espècies vegetals i animals endèmiques dels Pirineus. Aquesta vall és accessible mitjançant un tren cremallera o bé a peu, seguint algun dels camins de muntanya que arriben fins a Núria. Destaca particularment per no tenir cap carretera d'accés a la vall, cosa que fa que no hi hagi cotxes i es preservi més l'espai natural, eliminant els espais d'aparcament i la contaminació acústica i atmosfèrica dels vehicles a motor.",
+        "photo": "/images/highlights/vall-nuria.jpg",
+        "photoCredit": "https://ca.wikipedia.org/wiki/Vall_de_N%C3%BAria",
+        "photoTitle": "Vall de Núria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2577023,
+          42.4197198
+        ]
+      },
+      "properties": {
+        "id": "ulldeter",
+        "label": "Ulldeter",
+        "kind": "highlight",
+        "optional": false,
+        "displayName": "Refugi d'Ulldeter, Carretera de Vallter2000, Vallter2000, Setcases, Ripollès, Girona, Catalunya, 17869, España",
+        "geocodeStatus": "exact",
+        "geocodeQuery": "Refugi d'Ulldeter, Setcases, Girona, Catalunya, Spain",
+        "description": "Ulldeter és un circ muntanyós del Pirineu Oriental situat al nord del municipi de Setcases (Ripollès). El seu nom prové del fet que acull el naixement del riu Ter.",
+        "photo": "/images/highlights/ulldeter.jpg",
+        "photoCredit": "https://ca.wikipedia.org/wiki/Ulldeter",
+        "photoTitle": "Ulldeter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.480476,
+          42.320977
+        ]
+      },
+      "properties": {
+        "id": "beget",
+        "label": "Beget",
+        "kind": "highlight",
+        "optional": false,
+        "displayName": "Beget",
+        "geocodeStatus": "track-derived",
+        "geocodeQuery": "stage08",
+        "description": "Beget és un poble de l'Alta Garrotxa, i també un antic municipi fins a l'any 1969, en què fou agregat al terme municipal de Camprodon (Ripollès).",
+        "photo": "/images/highlights/beget.jpg",
+        "photoCredit": "https://ca.wikipedia.org/wiki/Beget",
+        "photoTitle": "Beget"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.587583,
+          42.316856
+        ]
+      },
+      "properties": {
+        "id": "sant-aniol",
+        "label": "Sant Aniol d'Aguja",
+        "kind": "highlight",
+        "optional": false,
+        "displayName": "Sant Aniol d'Aguja",
+        "geocodeStatus": "track-derived",
+        "geocodeQuery": "stage06",
+        "description": "Sant Aniol d'Aguja és una església romànica del municipi de Montagut i Oix (Garrotxa). Aquest edifici és a la vora de la riera de Sant Aniol, que passa a prop del seu absis, i al fons de la vall d'Aguja. L'església, també anomenada Sant Aniol d'Uja i Sant Aniol d'Aguges, és un temple catòlic del bisbat de Girona dedicat a Sant Aniol.",
+        "photo": "/images/highlights/sant-aniol.JPG",
+        "photoCredit": "https://ca.wikipedia.org/wiki/Sant_Aniol_d'Aguja",
+        "photoTitle": "Sant Aniol d'Aguja"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.719552,
+          42.305448
+        ]
+      },
+      "properties": {
+        "id": "albanya",
+        "label": "Albanyà / Alta Garrotxa",
+        "kind": "highlight",
+        "optional": false,
+        "displayName": "Albanyà / Alta Garrotxa",
+        "geocodeStatus": "track-derived",
+        "geocodeQuery": "stage06",
+        "description": "Albanyà és un municipi de la comarca de l'Alt Empordà, a les Comarques Gironines, a 239 metres d'altitud. Forma part del consorci Salines-Bassegoda i està inclòs al PEIN de l'Alta Garrotxa.",
+        "photo": "/images/highlights/albanya.png",
+        "photoCredit": "https://ca.wikipedia.org/wiki/Albany%C3%A0",
+        "photoTitle": "Albanyà"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8728485,
+          42.4207991
+        ]
+      },
+      "properties": {
+        "id": "la-jonquera",
+        "label": "La Jonquera",
+        "kind": "highlight",
+        "optional": false,
+        "displayName": "la Jonquera, Alt Empordà, Girona, Catalunya, España",
+        "geocodeStatus": "exact",
+        "geocodeQuery": "La Jonquera, Girona, Catalunya, Spain",
+        "description": "La Jonquera és un municipi de la comarca de l'Alt Empordà. En la legislatura de 2015 a 2019, l'alcaldessa fou Sònia Martínez Juli.",
+        "photo": null,
+        "photoCredit": "https://ca.wikipedia.org/wiki/La_Jonquera",
+        "photoTitle": "La Jonquera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9446847,
+          42.4465756
+        ]
+      },
+      "properties": {
+        "id": "castell-requesens",
+        "label": "Castell de Requesens",
+        "kind": "highlight",
+        "optional": false,
+        "displayName": "Castell de Requesens, Camí de la Font Rovellada, Requesens, la Jonquera, Alt Empordà, Girona, Catalunya, 17708, España",
+        "geocodeStatus": "exact",
+        "geocodeQuery": "Castell de Requesens, La Jonquera, Girona, Catalunya, Spain",
+        "description": "El castell de Requesens està situat sobre un turó, que domina totes les valls meridionals del puig Neulós, a uns 7 km a l'est del veïnat de Requesens. El seu terme correspon al de l'antic poble de Requesens del municipi de la Jonquera.",
+        "photo": "/images/highlights/castell-requesens.jpg",
+        "photoCredit": "https://ca.wikipedia.org/wiki/Castell_de_Requesens",
+        "photoTitle": "Castell de Requesens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0588769,
+          42.4162781
+        ]
+      },
+      "properties": {
+        "id": "sant-quirze-colera",
+        "label": "Sant Quirze de Colera",
+        "kind": "highlight",
+        "optional": false,
+        "displayName": "Monestir de Sant Quirze de Colera, GR11, Rabós, Alt Empordà, Girona, Catalunya, 17781, España",
+        "geocodeStatus": "exact",
+        "geocodeQuery": "Monestir de Sant Quirze de Colera, Rabos, Girona, Catalunya, Spain",
+        "description": "El monestir de Sant Quirze de Colera és una abadia benedictina de l'antic comtat d'Empúries, dins els límits del bisbat de Girona, situada a l'actual terme municipal de Rabós. És un conjunt arquitectònic format per la basílica de Sant Quirze, diverses dependències monàstiques organitzades al voltant del pati del claustre, una torre de defensa i restes d'un pany de muralla, l'església de Santa Maria i les restes de l'antic hospital. Està situat a uns cinc quilòmetres de distància i prop del camí vell al coll de Banyuls. És una obra declarada bé cultural d'interès nacional.",
+        "photo": null,
+        "photoCredit": "https://ca.wikipedia.org/wiki/Monestir_de_Sant_Quirze_de_Colera",
+        "photoTitle": "Monestir de Sant Quirze de Colera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1511804,
+          42.3617316
+        ]
+      },
+      "properties": {
+        "id": "llanca",
+        "label": "Llançà",
+        "kind": "highlight",
+        "optional": false,
+        "displayName": "Llançà, Alt Empordà, Girona, Catalunya, 17490, España",
+        "geocodeStatus": "exact",
+        "geocodeQuery": "Llanca, Girona, Catalunya, Spain",
+        "description": "Llançà és un municipi de la Costa Brava nord, a la comarca de l'Alt Empordà. És al nord del Cap de Creus.",
+        "photo": "/images/highlights/llanca.png",
+        "photoCredit": "https://ca.wikipedia.org/wiki/Llan%C3%A7%C3%A0",
+        "photoTitle": "Llançà"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1663287,
+          42.3233463
+        ]
+      },
+      "properties": {
+        "id": "sant-pere-rodes",
+        "label": "Sant Pere de Rodes",
+        "kind": "highlight",
+        "optional": false,
+        "displayName": "Monestir de Sant Pere de Rodes, Camí del Monestir, Sant Pere de Rodes, el Port de la Selva, Alt Empordà, Girona, Catalunya, 17495, España",
+        "geocodeStatus": "exact",
+        "geocodeQuery": "Monestir de Sant Pere de Rodes, El Port de la Selva, Girona, Catalunya, Spain",
+        "description": "El monestir de Sant Pere de Rodes fou un monestir benedictí de l'antic comtat d'Empúries, dins els límits del bisbat de Girona, situat a l'actual terme municipal del Port de la Selva. En concret, es troba al sud-oest de la població del Port de la Selva, al vessant de llevant de la muntanya de Verdera, a la serra de Roda i prop de les ruïnes del poblat medieval de Santa Creu de Rodes i del castell de Sant Salvador de Verdera.",
+        "photo": "/images/highlights/sant-pere-rodes.jpg",
+        "photoCredit": "https://ca.wikipedia.org/wiki/Monestir_de_Sant_Pere_de_Rodes",
+        "photoTitle": "Monestir de Sant Pere de Rodes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.20366,
+          42.3378
+        ]
+      },
+      "properties": {
+        "id": "port-selva",
+        "label": "El Port de la Selva",
+        "kind": "highlight",
+        "optional": false,
+        "displayName": "El Port de la Selva",
+        "geocodeStatus": "track-derived",
+        "geocodeQuery": "stage01",
+        "description": "El Port de la Selva és un municipi de la comarca de l'Alt Empordà. El terme municipal inclou la població de la Vall de Santa Creu. La vila del Port de la Selva és al nord de la península del cap de Creus, al sector septentrional de la Costa Brava.",
+        "photo": null,
+        "photoCredit": "https://ca.wikipedia.org/wiki/El_Port_de_la_Selva",
+        "photoTitle": "El Port de la Selva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.321643,
+          42.31931
+        ]
+      },
+      "properties": {
+        "id": "cap-creus",
+        "label": "Cap de Creus",
+        "kind": "highlight",
+        "optional": false,
+        "displayName": "Cap de Creus",
+        "geocodeStatus": "track-derived",
+        "geocodeQuery": "stage01",
+        "description": "El cap de Creus és un cap del litoral de l'Alt Empordà (Catalunya), situat a l'extrem nord de la Costa Brava, al final d'una petita península que s'endinsa a la mar Mediterrània i que separa el golf de Roses, al sud, del golf del Lleó, al nord. Aquest cap és el punt més oriental de la península Ibèrica. L'àrea del cap pertany al terme municipal de Cadaqués i forma part del Parc Natural del Cap de Creus. A la contrada, és conegut també com a cap del Diable, i els sectors N i S de mar que el cap separa, com a mar d'Amunt i mar d'Avall, respectivament. Sobre el promontori més pròxim a la punta, a 87 msnm, hi ha un far construït sobre els fonaments d'una torre de \nsenyals romana, que a la baixa edat mitjana també va servir com a torre de guaita.",
+        "photo": null,
+        "photoCredit": "https://ca.wikipedia.org/wiki/Cap_de_Creus",
+        "photoTitle": "Cap de Creus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.274355,
+          42.289873
+        ]
+      },
+      "properties": {
+        "id": "cadaques",
+        "label": "Cadaqués",
+        "kind": "highlight",
+        "optional": false,
+        "displayName": "Cadaqués",
+        "geocodeStatus": "track-derived",
+        "geocodeQuery": "capCreus19",
+        "description": "Cadaqués és un municipi de l'Alt Empordà, a la costa del cap de Creus. El nucli antic forma un conjunt històric protegit com a bé cultural d'interès nacional.",
+        "photo": null,
+        "photoCredit": "https://ca.wikipedia.org/wiki/Cadaqu%C3%A9s",
+        "photoTitle": "Cadaqués"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3016103,
+          42.375331
+        ]
+      },
+      "properties": {
+        "id": "stay-setcases",
+        "label": "Apartaments Can Bundanci",
+        "kind": "accommodation",
+        "optional": false,
+        "displayName": "Setcases, Ripollès, Girona, Catalunya, 17869, España",
+        "geocodeStatus": "approximate",
+        "geocodeQuery": "Setcases, Girona, Catalunya, Spain",
+        "approximationReason": "alojamiento aproximado en el pueblo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4815508,
+          42.3207361
+        ]
+      },
+      "properties": {
+        "id": "stay-beget",
+        "label": "Hostal El Forn",
+        "kind": "accommodation",
+        "optional": false,
+        "displayName": "Hostal el Forn, Carrer de la Font, Beget, Camprodon, Ripollès, Girona, Catalunya, 17867, España",
+        "geocodeStatus": "exact",
+        "geocodeQuery": "Hostal El Forn, Beget, Girona, Catalunya, Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7193001,
+          42.3046915
+        ]
+      },
+      "properties": {
+        "id": "stay-albanya",
+        "label": "TAIGA Bassegoda Park",
+        "kind": "accommodation",
+        "optional": false,
+        "displayName": "Albanyà, Alt Empordà, Girona, Catalunya, 17733, España",
+        "geocodeStatus": "approximate",
+        "geocodeQuery": "Albanya, Girona, Catalunya, Spain",
+        "approximationReason": "alojamiento aproximado en el pueblo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.067464,
+          42.3743918
+        ]
+      },
+      "properties": {
+        "id": "stay-vilamaniscle",
+        "label": "El Penell Estudi Garbí / El Penell Estudi Mestral",
+        "kind": "accommodation",
+        "optional": false,
+        "displayName": "Vilamaniscle, Alt Empordà, Girona, Catalunya, 17781, España",
+        "geocodeStatus": "approximate",
+        "geocodeQuery": "Vilamaniscle, Girona, Catalunya, Spain",
+        "approximationReason": "alojamiento aproximado en el pueblo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2047232,
+          42.3373159
+        ]
+      },
+      "properties": {
+        "id": "stay-port-selva",
+        "label": "Habitacions La Font",
+        "kind": "accommodation",
+        "optional": false,
+        "displayName": "el Port de la Selva, Alt Empordà, Girona, Catalunya, 17489, España",
+        "geocodeStatus": "approximate",
+        "geocodeQuery": "El Port de la Selva, Girona, Catalunya, Spain",
+        "approximationReason": "alojamiento aproximado en el pueblo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2770941,
+          42.2889708
+        ]
+      },
+      "properties": {
+        "id": "stay-cadaques",
+        "label": "Hostal Marina Cadaqués",
+        "kind": "accommodation",
+        "optional": true,
+        "displayName": "Hostal Marina, Carrer de Sant Vicenç, Cadaqués, Alt Empordà, Girona, Catalunya, 17488, España",
+        "geocodeStatus": "exact",
+        "geocodeQuery": "Hostal Marina Cadaques, Cadaques, Girona, Catalunya, Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7193001,
+          42.3046915
+        ]
+      },
+      "properties": {
+        "id": "bus-albanya",
+        "label": "Albanyà · parada bus",
+        "kind": "bus-stop",
+        "optional": false,
+        "displayName": "Albanyà, Alt Empordà, Girona, Catalunya, 17733, España",
+        "geocodeStatus": "exact",
+        "geocodeQuery": "Albanya, Girona, Catalunya, Spain",
+        "description": "Albanyà · parada bus",
+        "photo": null,
+        "photoCredit": "",
+        "photoTitle": "Albanyà · parada bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9674417,
+          42.2643763
+        ]
+      },
+      "properties": {
+        "id": "bus-figueres",
+        "label": "Figueres · estació bus",
+        "kind": "bus-stop",
+        "optional": false,
+        "displayName": "Estació d'autobusos de Figueres, Carrer de Joan Reglà, Figueres, Alt Empordà, Girona, Catalunya, 17600, España",
+        "geocodeStatus": "exact",
+        "geocodeQuery": "Estacio d'autobusos de Figueres, Figueres, Girona, Catalunya, Spain",
+        "description": "Figueres és una ciutat de Catalunya, capital de la comarca de l'Alt Empordà i cap del partit judicial de Figueres. És el principal nucli urbà i el pol econòmic i comercial de l'Empordà.",
+        "photo": null,
+        "photoCredit": "https://ca.wikipedia.org/wiki/Figueres",
+        "photoTitle": "Figueres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8728485,
+          42.4207991
+        ]
+      },
+      "properties": {
+        "id": "bus-jonquera",
+        "label": "La Jonquera · parada bus",
+        "kind": "bus-stop",
+        "optional": false,
+        "displayName": "la Jonquera, Alt Empordà, Girona, Catalunya, España",
+        "geocodeStatus": "exact",
+        "geocodeQuery": "La Jonquera, Girona, Catalunya, Spain",
+        "description": "La Jonquera · parada bus",
+        "photo": null,
+        "photoCredit": "",
+        "photoTitle": "La Jonquera · parada bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.153836,
+          42.396683
+        ]
+      },
+      "properties": {
+        "id": "day1-start",
+        "label": "Inicio · Núria",
+        "kind": "stage-endpoint",
+        "relatedDayId": "day1",
+        "endpointRole": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.301887,
+          42.375592
+        ]
+      },
+      "properties": {
+        "id": "day1-end",
+        "label": "Final · Setcases",
+        "kind": "stage-endpoint",
+        "relatedDayId": "day1",
+        "endpointRole": "end"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.301824,
+          42.375494
+        ]
+      },
+      "properties": {
+        "id": "day2-start",
+        "label": "Inicio · Setcases",
+        "kind": "stage-endpoint",
+        "relatedDayId": "day2",
+        "endpointRole": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.480476,
+          42.320977
+        ]
+      },
+      "properties": {
+        "id": "day2-end",
+        "label": "Final · Beget",
+        "kind": "stage-endpoint",
+        "relatedDayId": "day2",
+        "endpointRole": "end"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.480556,
+          42.320826
+        ]
+      },
+      "properties": {
+        "id": "day3-start",
+        "label": "Inicio · Beget",
+        "kind": "stage-endpoint",
+        "relatedDayId": "day3",
+        "endpointRole": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.719552,
+          42.305448
+        ]
+      },
+      "properties": {
+        "id": "day3-end",
+        "label": "Final · Albanyà",
+        "kind": "stage-endpoint",
+        "relatedDayId": "day3",
+        "endpointRole": "end"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.719255,
+          42.304808
+        ]
+      },
+      "properties": {
+        "id": "day4-start",
+        "label": "Inicio · Albanyà",
+        "kind": "stage-endpoint",
+        "relatedDayId": "day4",
+        "endpointRole": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.067173,
+          42.375323
+        ]
+      },
+      "properties": {
+        "id": "day4-end",
+        "label": "Final · Vilamaniscle",
+        "kind": "stage-endpoint",
+        "relatedDayId": "day4",
+        "endpointRole": "end"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.067208,
+          42.375468
+        ]
+      },
+      "properties": {
+        "id": "day5-start",
+        "label": "Inicio · Vilamaniscle",
+        "kind": "stage-endpoint",
+        "relatedDayId": "day5",
+        "endpointRole": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.20366,
+          42.336559
+        ]
+      },
+      "properties": {
+        "id": "day5-end",
+        "label": "Final · El Port de la Selva",
+        "kind": "stage-endpoint",
+        "relatedDayId": "day5",
+        "endpointRole": "end"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.20366,
+          42.3378
+        ]
+      },
+      "properties": {
+        "id": "day6-start",
+        "label": "Inicio · El Port de la Selva",
+        "kind": "stage-endpoint",
+        "relatedDayId": "day6",
+        "endpointRole": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.274355,
+          42.289873
+        ]
+      },
+      "properties": {
+        "id": "day6-end",
+        "label": "Final · Cadaqués",
+        "kind": "stage-endpoint",
+        "relatedDayId": "day6",
+        "endpointRole": "end"
+      }
+    }
+  ]
+}

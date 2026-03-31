@@ -1,0 +1,22 @@
+{
+  "name": "gr11-cap-creus-map",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build:data": "node scripts/build-route-data.mjs",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tmcw/togeojson": "^6.0.1",
+    "@turf/turf": "^7.2.0",
+    "@xmldom/xmldom": "^0.9.8",
+    "fflate": "^0.8.2",
+    "leaflet": "^1.9.4"
+  },
+  "devDependencies": {
+    "vite": "^7.1.0"
+  }
+}

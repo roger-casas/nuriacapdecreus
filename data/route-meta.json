@@ -1,0 +1,2151 @@
+{
+  "generatedAt": "2026-03-31T18:32:33.555Z",
+  "summary": {
+    "days": 6,
+    "hikingKmTotal": 162,
+    "hikingKmTotalLabel": "162,0 km",
+    "elevationGainTotal": 7898,
+    "elevationGainTotalLabel": "~7898 m",
+    "nightCount": 6,
+    "towns": [
+      "Setcases",
+      "Beget",
+      "Albanyà",
+      "Vilamaniscle",
+      "El Port de la Selva",
+      "Cadaqués"
+    ],
+    "special": "Jueves 23 abril 2026: traslado en bus Albanyà → Figueres → La Jonquera"
+  },
+  "days": [
+    {
+      "id": "day1",
+      "title": "Núria → Setcases",
+      "date": "2026-04-20",
+      "weekday": "Lunes",
+      "dateLabel": "Lunes 20 abril 2026",
+      "kmLabel": "20,4 km",
+      "gainLabel": "+1.333 m",
+      "durationLabel": "~7 h",
+      "type": "hiking",
+      "sourceRefs": [
+        "stage09"
+      ],
+      "highlights": [
+        "vall-nuria",
+        "ulldeter"
+      ],
+      "accommodation": "stay-setcases",
+      "exactness": "exact",
+      "notes": "Track exacto sobre GPX oficial de Visit Pirineus, invertido para seguir Núria → Setcases.",
+      "dayNumber": 1,
+      "computedDistanceKm": 19.5,
+      "computedGainM": 1089,
+      "computedLossM": 1777,
+      "profile": [
+        {
+          "distanceKm": 0,
+          "elevationM": 1960
+        },
+        {
+          "distanceKm": 0.4,
+          "elevationM": 1975
+        },
+        {
+          "distanceKm": 0.6,
+          "elevationM": 2021
+        },
+        {
+          "distanceKm": 1.1,
+          "elevationM": 2088
+        },
+        {
+          "distanceKm": 1.4,
+          "elevationM": 2124
+        },
+        {
+          "distanceKm": 1.7,
+          "elevationM": 2174
+        },
+        {
+          "distanceKm": 2,
+          "elevationM": 2231
+        },
+        {
+          "distanceKm": 2.4,
+          "elevationM": 2304
+        },
+        {
+          "distanceKm": 2.7,
+          "elevationM": 2354
+        },
+        {
+          "distanceKm": 3,
+          "elevationM": 2421
+        },
+        {
+          "distanceKm": 3.3,
+          "elevationM": 2467
+        },
+        {
+          "distanceKm": 3.6,
+          "elevationM": 2537
+        },
+        {
+          "distanceKm": 3.9,
+          "elevationM": 2606
+        },
+        {
+          "distanceKm": 4.2,
+          "elevationM": 2666
+        },
+        {
+          "distanceKm": 4.4,
+          "elevationM": 2714
+        },
+        {
+          "distanceKm": 4.6,
+          "elevationM": 2777
+        },
+        {
+          "distanceKm": 4.8,
+          "elevationM": 2791
+        },
+        {
+          "distanceKm": 5.1,
+          "elevationM": 2730
+        },
+        {
+          "distanceKm": 5.4,
+          "elevationM": 2756
+        },
+        {
+          "distanceKm": 5.7,
+          "elevationM": 2807
+        },
+        {
+          "distanceKm": 6,
+          "elevationM": 2792
+        },
+        {
+          "distanceKm": 6.3,
+          "elevationM": 2781
+        },
+        {
+          "distanceKm": 6.6,
+          "elevationM": 2763
+        },
+        {
+          "distanceKm": 6.8,
+          "elevationM": 2704
+        },
+        {
+          "distanceKm": 7.1,
+          "elevationM": 2645
+        },
+        {
+          "distanceKm": 7.4,
+          "elevationM": 2597
+        },
+        {
+          "distanceKm": 7.7,
+          "elevationM": 2569
+        },
+        {
+          "distanceKm": 8,
+          "elevationM": 2509
+        },
+        {
+          "distanceKm": 8.3,
+          "elevationM": 2467
+        },
+        {
+          "distanceKm": 8.5,
+          "elevationM": 2432
+        },
+        {
+          "distanceKm": 8.8,
+          "elevationM": 2426
+        },
+        {
+          "distanceKm": 9.1,
+          "elevationM": 2434
+        },
+        {
+          "distanceKm": 9.4,
+          "elevationM": 2457
+        },
+        {
+          "distanceKm": 9.7,
+          "elevationM": 2497
+        },
+        {
+          "distanceKm": 10,
+          "elevationM": 2526
+        },
+        {
+          "distanceKm": 10.2,
+          "elevationM": 2479
+        },
+        {
+          "distanceKm": 10.4,
+          "elevationM": 2426
+        },
+        {
+          "distanceKm": 10.7,
+          "elevationM": 2391
+        },
+        {
+          "distanceKm": 10.9,
+          "elevationM": 2337
+        },
+        {
+          "distanceKm": 11.2,
+          "elevationM": 2287
+        },
+        {
+          "distanceKm": 11.5,
+          "elevationM": 2236
+        },
+        {
+          "distanceKm": 11.7,
+          "elevationM": 2199
+        },
+        {
+          "distanceKm": 11.9,
+          "elevationM": 2163
+        },
+        {
+          "distanceKm": 12.1,
+          "elevationM": 2106
+        },
+        {
+          "distanceKm": 12.3,
+          "elevationM": 2056
+        },
+        {
+          "distanceKm": 12.6,
+          "elevationM": 2014
+        },
+        {
+          "distanceKm": 12.8,
+          "elevationM": 1981
+        },
+        {
+          "distanceKm": 13.1,
+          "elevationM": 1934
+        },
+        {
+          "distanceKm": 13.4,
+          "elevationM": 1889
+        },
+        {
+          "distanceKm": 13.7,
+          "elevationM": 1848
+        },
+        {
+          "distanceKm": 14,
+          "elevationM": 1809
+        },
+        {
+          "distanceKm": 14.3,
+          "elevationM": 1769
+        },
+        {
+          "distanceKm": 14.6,
+          "elevationM": 1722
+        },
+        {
+          "distanceKm": 14.9,
+          "elevationM": 1674
+        },
+        {
+          "distanceKm": 15.2,
+          "elevationM": 1630
+        },
+        {
+          "distanceKm": 15.5,
+          "elevationM": 1587
+        },
+        {
+          "distanceKm": 16,
+          "elevationM": 1537
+        },
+        {
+          "distanceKm": 16.5,
+          "elevationM": 1486
+        },
+        {
+          "distanceKm": 17.1,
+          "elevationM": 1432
+        },
+        {
+          "distanceKm": 17.6,
+          "elevationM": 1394
+        },
+        {
+          "distanceKm": 18.1,
+          "elevationM": 1346
+        },
+        {
+          "distanceKm": 18.7,
+          "elevationM": 1313
+        },
+        {
+          "distanceKm": 19.1,
+          "elevationM": 1291
+        },
+        {
+          "distanceKm": 19.5,
+          "elevationM": 1271
+        }
+      ],
+      "narrative": "Salida alpina desde el circo de Núria, con ambiente de alta montaña, paso por Ulldeter y una larga bajada final hacia Setcases.",
+      "segmentIds": [
+        "day1-hiking"
+      ],
+      "accommodationPointId": "stay-setcases",
+      "highlightPointIds": [
+        "vall-nuria",
+        "ulldeter"
+      ]
+    },
+    {
+      "id": "day2",
+      "title": "Setcases → Beget",
+      "date": "2026-04-21",
+      "weekday": "Martes",
+      "dateLabel": "Martes 21 abril 2026",
+      "kmLabel": "22,8 km",
+      "gainLabel": "+1.069 m",
+      "durationLabel": "6h50",
+      "type": "hiking",
+      "sourceRefs": [
+        "stage08"
+      ],
+      "highlights": [
+        "beget"
+      ],
+      "accommodation": "stay-beget",
+      "exactness": "exact",
+      "notes": "Track exacto sobre GPX oficial de Visit Pirineus, invertido para seguir Setcases → Beget.",
+      "dayNumber": 2,
+      "computedDistanceKm": 23.1,
+      "computedGainM": 1085,
+      "computedLossM": 1825,
+      "profile": [
+        {
+          "distanceKm": 0,
+          "elevationM": 1270
+        },
+        {
+          "distanceKm": 0.3,
+          "elevationM": 1285
+        },
+        {
+          "distanceKm": 0.8,
+          "elevationM": 1374
+        },
+        {
+          "distanceKm": 1.2,
+          "elevationM": 1483
+        },
+        {
+          "distanceKm": 1.6,
+          "elevationM": 1557
+        },
+        {
+          "distanceKm": 2,
+          "elevationM": 1597
+        },
+        {
+          "distanceKm": 2.4,
+          "elevationM": 1658
+        },
+        {
+          "distanceKm": 2.7,
+          "elevationM": 1694
+        },
+        {
+          "distanceKm": 3.2,
+          "elevationM": 1714
+        },
+        {
+          "distanceKm": 3.5,
+          "elevationM": 1767
+        },
+        {
+          "distanceKm": 3.8,
+          "elevationM": 1855
+        },
+        {
+          "distanceKm": 4.3,
+          "elevationM": 1889
+        },
+        {
+          "distanceKm": 4.7,
+          "elevationM": 1854
+        },
+        {
+          "distanceKm": 5,
+          "elevationM": 1836
+        },
+        {
+          "distanceKm": 5.4,
+          "elevationM": 1829
+        },
+        {
+          "distanceKm": 5.7,
+          "elevationM": 1810
+        },
+        {
+          "distanceKm": 6.1,
+          "elevationM": 1763
+        },
+        {
+          "distanceKm": 6.5,
+          "elevationM": 1748
+        },
+        {
+          "distanceKm": 6.9,
+          "elevationM": 1715
+        },
+        {
+          "distanceKm": 7.3,
+          "elevationM": 1705
+        },
+        {
+          "distanceKm": 7.6,
+          "elevationM": 1689
+        },
+        {
+          "distanceKm": 8,
+          "elevationM": 1668
+        },
+        {
+          "distanceKm": 8.4,
+          "elevationM": 1637
+        },
+        {
+          "distanceKm": 8.8,
+          "elevationM": 1560
+        },
+        {
+          "distanceKm": 9.1,
+          "elevationM": 1506
+        },
+        {
+          "distanceKm": 9.5,
+          "elevationM": 1463
+        },
+        {
+          "distanceKm": 9.9,
+          "elevationM": 1434
+        },
+        {
+          "distanceKm": 10.3,
+          "elevationM": 1368
+        },
+        {
+          "distanceKm": 10.7,
+          "elevationM": 1329
+        },
+        {
+          "distanceKm": 11.1,
+          "elevationM": 1282
+        },
+        {
+          "distanceKm": 11.4,
+          "elevationM": 1222
+        },
+        {
+          "distanceKm": 11.8,
+          "elevationM": 1200
+        },
+        {
+          "distanceKm": 12.2,
+          "elevationM": 1186
+        },
+        {
+          "distanceKm": 12.5,
+          "elevationM": 1154
+        },
+        {
+          "distanceKm": 12.8,
+          "elevationM": 1091
+        },
+        {
+          "distanceKm": 13.2,
+          "elevationM": 1053
+        },
+        {
+          "distanceKm": 13.5,
+          "elevationM": 1046
+        },
+        {
+          "distanceKm": 13.8,
+          "elevationM": 1084
+        },
+        {
+          "distanceKm": 14.2,
+          "elevationM": 1129
+        },
+        {
+          "distanceKm": 14.6,
+          "elevationM": 1172
+        },
+        {
+          "distanceKm": 15,
+          "elevationM": 1177
+        },
+        {
+          "distanceKm": 15.3,
+          "elevationM": 1150
+        },
+        {
+          "distanceKm": 15.8,
+          "elevationM": 1164
+        },
+        {
+          "distanceKm": 16.1,
+          "elevationM": 1131
+        },
+        {
+          "distanceKm": 16.5,
+          "elevationM": 1098
+        },
+        {
+          "distanceKm": 16.9,
+          "elevationM": 1018
+        },
+        {
+          "distanceKm": 17.2,
+          "elevationM": 958
+        },
+        {
+          "distanceKm": 17.5,
+          "elevationM": 966
+        },
+        {
+          "distanceKm": 17.9,
+          "elevationM": 981
+        },
+        {
+          "distanceKm": 18.3,
+          "elevationM": 933
+        },
+        {
+          "distanceKm": 18.7,
+          "elevationM": 894
+        },
+        {
+          "distanceKm": 19,
+          "elevationM": 860
+        },
+        {
+          "distanceKm": 19.4,
+          "elevationM": 826
+        },
+        {
+          "distanceKm": 19.7,
+          "elevationM": 805
+        },
+        {
+          "distanceKm": 20,
+          "elevationM": 753
+        },
+        {
+          "distanceKm": 20.4,
+          "elevationM": 722
+        },
+        {
+          "distanceKm": 20.7,
+          "elevationM": 714
+        },
+        {
+          "distanceKm": 21,
+          "elevationM": 687
+        },
+        {
+          "distanceKm": 21.4,
+          "elevationM": 650
+        },
+        {
+          "distanceKm": 21.8,
+          "elevationM": 623
+        },
+        {
+          "distanceKm": 22.1,
+          "elevationM": 620
+        },
+        {
+          "distanceKm": 22.5,
+          "elevationM": 602
+        },
+        {
+          "distanceKm": 22.8,
+          "elevationM": 564
+        },
+        {
+          "distanceKm": 23.1,
+          "elevationM": 530
+        }
+      ],
+      "narrative": "Jornada quebrada y muy montañera, enlazando collados y laderas del Ripollès hasta descender al encanto medieval de Beget.",
+      "segmentIds": [
+        "day2-hiking"
+      ],
+      "accommodationPointId": "stay-beget",
+      "highlightPointIds": [
+        "beget"
+      ]
+    },
+    {
+      "id": "day3",
+      "title": "Beget → Albanyà",
+      "date": "2026-04-22",
+      "weekday": "Miércoles",
+      "dateLabel": "Miércoles 22 abril 2026",
+      "kmLabel": "33,0 km",
+      "gainLabel": "+2.061 m",
+      "durationLabel": "~10h20",
+      "type": "hiking",
+      "sourceRefs": [
+        "stage07",
+        "stage06"
+      ],
+      "highlights": [
+        "beget",
+        "sant-aniol",
+        "albanya"
+      ],
+      "accommodation": "stay-albanya",
+      "exactness": "exact",
+      "notes": "Track exacto combinando dos GPX oficiales de Visit Pirineus: Beget → Sant Aniol d'Aguja y Sant Aniol d'Aguja → Albanyà.",
+      "dayNumber": 3,
+      "computedDistanceKm": 32.3,
+      "computedGainM": 2010,
+      "computedLossM": 2302,
+      "profile": [
+        {
+          "distanceKm": 0,
+          "elevationM": 529
+        },
+        {
+          "distanceKm": 0.6,
+          "elevationM": 508
+        },
+        {
+          "distanceKm": 1.3,
+          "elevationM": 489
+        },
+        {
+          "distanceKm": 2,
+          "elevationM": 473
+        },
+        {
+          "distanceKm": 2.7,
+          "elevationM": 453
+        },
+        {
+          "distanceKm": 3.3,
+          "elevationM": 445
+        },
+        {
+          "distanceKm": 3.9,
+          "elevationM": 484
+        },
+        {
+          "distanceKm": 4.3,
+          "elevationM": 563
+        },
+        {
+          "distanceKm": 4.7,
+          "elevationM": 645
+        },
+        {
+          "distanceKm": 5.2,
+          "elevationM": 653
+        },
+        {
+          "distanceKm": 5.7,
+          "elevationM": 619
+        },
+        {
+          "distanceKm": 6.2,
+          "elevationM": 541
+        },
+        {
+          "distanceKm": 6.8,
+          "elevationM": 473
+        },
+        {
+          "distanceKm": 7.2,
+          "elevationM": 434
+        },
+        {
+          "distanceKm": 7.8,
+          "elevationM": 387
+        },
+        {
+          "distanceKm": 8.3,
+          "elevationM": 374
+        },
+        {
+          "distanceKm": 9,
+          "elevationM": 380
+        },
+        {
+          "distanceKm": 9.6,
+          "elevationM": 478
+        },
+        {
+          "distanceKm": 10.1,
+          "elevationM": 544
+        },
+        {
+          "distanceKm": 10.6,
+          "elevationM": 576
+        },
+        {
+          "distanceKm": 11.1,
+          "elevationM": 642
+        },
+        {
+          "distanceKm": 11.5,
+          "elevationM": 707
+        },
+        {
+          "distanceKm": 11.9,
+          "elevationM": 747
+        },
+        {
+          "distanceKm": 12.3,
+          "elevationM": 702
+        },
+        {
+          "distanceKm": 12.7,
+          "elevationM": 673
+        },
+        {
+          "distanceKm": 13.2,
+          "elevationM": 631
+        },
+        {
+          "distanceKm": 13.6,
+          "elevationM": 557
+        },
+        {
+          "distanceKm": 14.1,
+          "elevationM": 536
+        },
+        {
+          "distanceKm": 14.5,
+          "elevationM": 542
+        },
+        {
+          "distanceKm": 15.1,
+          "elevationM": 492
+        },
+        {
+          "distanceKm": 15.5,
+          "elevationM": 439
+        },
+        {
+          "distanceKm": 16,
+          "elevationM": 426
+        },
+        {
+          "distanceKm": 16.4,
+          "elevationM": 426
+        },
+        {
+          "distanceKm": 16.8,
+          "elevationM": 534
+        },
+        {
+          "distanceKm": 17.1,
+          "elevationM": 614
+        },
+        {
+          "distanceKm": 17.5,
+          "elevationM": 689
+        },
+        {
+          "distanceKm": 17.9,
+          "elevationM": 729
+        },
+        {
+          "distanceKm": 18.3,
+          "elevationM": 792
+        },
+        {
+          "distanceKm": 18.7,
+          "elevationM": 864
+        },
+        {
+          "distanceKm": 19.3,
+          "elevationM": 856
+        },
+        {
+          "distanceKm": 19.6,
+          "elevationM": 916
+        },
+        {
+          "distanceKm": 20.1,
+          "elevationM": 916
+        },
+        {
+          "distanceKm": 20.4,
+          "elevationM": 953
+        },
+        {
+          "distanceKm": 20.8,
+          "elevationM": 1075
+        },
+        {
+          "distanceKm": 21.2,
+          "elevationM": 1126
+        },
+        {
+          "distanceKm": 21.8,
+          "elevationM": 1089
+        },
+        {
+          "distanceKm": 22.2,
+          "elevationM": 1018
+        },
+        {
+          "distanceKm": 22.5,
+          "elevationM": 924
+        },
+        {
+          "distanceKm": 23.1,
+          "elevationM": 813
+        },
+        {
+          "distanceKm": 23.7,
+          "elevationM": 754
+        },
+        {
+          "distanceKm": 24.4,
+          "elevationM": 709
+        },
+        {
+          "distanceKm": 25,
+          "elevationM": 694
+        },
+        {
+          "distanceKm": 25.7,
+          "elevationM": 679
+        },
+        {
+          "distanceKm": 26.3,
+          "elevationM": 662
+        },
+        {
+          "distanceKm": 26.8,
+          "elevationM": 601
+        },
+        {
+          "distanceKm": 27.4,
+          "elevationM": 554
+        },
+        {
+          "distanceKm": 27.9,
+          "elevationM": 491
+        },
+        {
+          "distanceKm": 28.4,
+          "elevationM": 411
+        },
+        {
+          "distanceKm": 29,
+          "elevationM": 346
+        },
+        {
+          "distanceKm": 29.5,
+          "elevationM": 291
+        },
+        {
+          "distanceKm": 30.2,
+          "elevationM": 251
+        },
+        {
+          "distanceKm": 30.8,
+          "elevationM": 247
+        },
+        {
+          "distanceKm": 31.5,
+          "elevationM": 254
+        },
+        {
+          "distanceKm": 32.2,
+          "elevationM": 237
+        }
+      ],
+      "narrative": "Etapa larga y exigente por la Alta Garrotxa: sendero técnico, barrancos y el paso por Sant Aniol d'Aguja antes de cerrar en Albanyà.",
+      "segmentIds": [
+        "day3-hiking-part-1",
+        "day3-hiking-part-2"
+      ],
+      "accommodationPointId": "stay-albanya",
+      "highlightPointIds": [
+        "beget",
+        "sant-aniol",
+        "albanya"
+      ]
+    },
+    {
+      "id": "day4",
+      "title": "Albanyà → Figueres → La Jonquera → Requesens → Vilamaniscle",
+      "shortTitle": "Bus + trekking",
+      "date": "2026-04-23",
+      "weekday": "Jueves",
+      "dateLabel": "Jueves 23 abril 2026",
+      "kmLabel": "~40 km a pie",
+      "gainLabel": "",
+      "durationLabel": "~10h30",
+      "type": "mixed",
+      "sourceRefs": [
+        "stage04",
+        "stage03"
+      ],
+      "highlights": [
+        "albanya",
+        "la-jonquera",
+        "castell-requesens",
+        "sant-quirze-colera"
+      ],
+      "accommodation": "stay-vilamaniscle",
+      "exactness": "mixed",
+      "notes": "Tramo a pie basado en GPX oficiales de Visit Pirineus. El bus se representa con geometría aproximada sobre carretera obtenida entre paradas reales y se marca explícitamente como aproximado.",
+      "busLegs": [
+        "Albanyà 07:00 → Figueres 07:45",
+        "Figueres 08:10 → La Jonquera 08:45"
+      ],
+      "dayNumber": 4,
+      "computedDistanceKm": 40.9,
+      "computedGainM": 1730,
+      "computedLossM": 1685,
+      "profile": [
+        {
+          "distanceKm": 0,
+          "elevationM": 112
+        },
+        {
+          "distanceKm": 0.6,
+          "elevationM": 131
+        },
+        {
+          "distanceKm": 1,
+          "elevationM": 205
+        },
+        {
+          "distanceKm": 1.6,
+          "elevationM": 250
+        },
+        {
+          "distanceKm": 2.1,
+          "elevationM": 288
+        },
+        {
+          "distanceKm": 2.6,
+          "elevationM": 326
+        },
+        {
+          "distanceKm": 3.1,
+          "elevationM": 402
+        },
+        {
+          "distanceKm": 3.5,
+          "elevationM": 464
+        },
+        {
+          "distanceKm": 3.9,
+          "elevationM": 535
+        },
+        {
+          "distanceKm": 4.2,
+          "elevationM": 587
+        },
+        {
+          "distanceKm": 4.6,
+          "elevationM": 660
+        },
+        {
+          "distanceKm": 5,
+          "elevationM": 705
+        },
+        {
+          "distanceKm": 5.3,
+          "elevationM": 748
+        },
+        {
+          "distanceKm": 5.7,
+          "elevationM": 768
+        },
+        {
+          "distanceKm": 6.1,
+          "elevationM": 729
+        },
+        {
+          "distanceKm": 6.4,
+          "elevationM": 699
+        },
+        {
+          "distanceKm": 6.8,
+          "elevationM": 707
+        },
+        {
+          "distanceKm": 7.5,
+          "elevationM": 667
+        },
+        {
+          "distanceKm": 8.1,
+          "elevationM": 610
+        },
+        {
+          "distanceKm": 8.8,
+          "elevationM": 589
+        },
+        {
+          "distanceKm": 9.5,
+          "elevationM": 541
+        },
+        {
+          "distanceKm": 10.3,
+          "elevationM": 525
+        },
+        {
+          "distanceKm": 11,
+          "elevationM": 497
+        },
+        {
+          "distanceKm": 11.8,
+          "elevationM": 463
+        },
+        {
+          "distanceKm": 12.4,
+          "elevationM": 439
+        },
+        {
+          "distanceKm": 13.1,
+          "elevationM": 477
+        },
+        {
+          "distanceKm": 13.8,
+          "elevationM": 496
+        },
+        {
+          "distanceKm": 14.5,
+          "elevationM": 490
+        },
+        {
+          "distanceKm": 15.2,
+          "elevationM": 482
+        },
+        {
+          "distanceKm": 15.8,
+          "elevationM": 469
+        },
+        {
+          "distanceKm": 16.3,
+          "elevationM": 522
+        },
+        {
+          "distanceKm": 16.8,
+          "elevationM": 555
+        },
+        {
+          "distanceKm": 17.3,
+          "elevationM": 651
+        },
+        {
+          "distanceKm": 18.1,
+          "elevationM": 693
+        },
+        {
+          "distanceKm": 19.1,
+          "elevationM": 647
+        },
+        {
+          "distanceKm": 19.9,
+          "elevationM": 573
+        },
+        {
+          "distanceKm": 20.5,
+          "elevationM": 468
+        },
+        {
+          "distanceKm": 21.2,
+          "elevationM": 381
+        },
+        {
+          "distanceKm": 21.9,
+          "elevationM": 387
+        },
+        {
+          "distanceKm": 22.6,
+          "elevationM": 385
+        },
+        {
+          "distanceKm": 23.3,
+          "elevationM": 376
+        },
+        {
+          "distanceKm": 23.9,
+          "elevationM": 330
+        },
+        {
+          "distanceKm": 24.5,
+          "elevationM": 260
+        },
+        {
+          "distanceKm": 25.3,
+          "elevationM": 213
+        },
+        {
+          "distanceKm": 26.2,
+          "elevationM": 156
+        },
+        {
+          "distanceKm": 27,
+          "elevationM": 168
+        },
+        {
+          "distanceKm": 27.8,
+          "elevationM": 197
+        },
+        {
+          "distanceKm": 28.7,
+          "elevationM": 186
+        },
+        {
+          "distanceKm": 29.5,
+          "elevationM": 203
+        },
+        {
+          "distanceKm": 30.5,
+          "elevationM": 215
+        },
+        {
+          "distanceKm": 31.4,
+          "elevationM": 240
+        },
+        {
+          "distanceKm": 32.2,
+          "elevationM": 243
+        },
+        {
+          "distanceKm": 32.9,
+          "elevationM": 292
+        },
+        {
+          "distanceKm": 33.5,
+          "elevationM": 392
+        },
+        {
+          "distanceKm": 34.1,
+          "elevationM": 305
+        },
+        {
+          "distanceKm": 34.7,
+          "elevationM": 194
+        },
+        {
+          "distanceKm": 35.4,
+          "elevationM": 160
+        },
+        {
+          "distanceKm": 36.2,
+          "elevationM": 151
+        },
+        {
+          "distanceKm": 37,
+          "elevationM": 129
+        },
+        {
+          "distanceKm": 37.8,
+          "elevationM": 117
+        },
+        {
+          "distanceKm": 38.6,
+          "elevationM": 107
+        },
+        {
+          "distanceKm": 39.4,
+          "elevationM": 123
+        },
+        {
+          "distanceKm": 40.2,
+          "elevationM": 127
+        },
+        {
+          "distanceKm": 40.9,
+          "elevationM": 157
+        }
+      ],
+      "narrative": "Día mixto: traslado temprano en bus y luego una travesía muy larga entre La Jonquera, Requesens y Sant Quirze de Colera antes de llegar a Vilamaniscle.",
+      "segmentIds": [
+        "day4-bus-leg-1",
+        "day4-bus-leg-2",
+        "day4-hiking"
+      ],
+      "accommodationPointId": "stay-vilamaniscle",
+      "highlightPointIds": [
+        "albanya",
+        "la-jonquera",
+        "castell-requesens",
+        "sant-quirze-colera"
+      ]
+    },
+    {
+      "id": "day5",
+      "title": "Vilamaniscle → Llançà → El Port de la Selva",
+      "date": "2026-04-24",
+      "weekday": "Viernes",
+      "dateLabel": "Viernes 24 abril 2026",
+      "kmLabel": "21,2 km",
+      "gainLabel": "+988 m",
+      "durationLabel": "5h45",
+      "type": "hiking",
+      "sourceRefs": [
+        "stage02"
+      ],
+      "highlights": [
+        "llanca",
+        "sant-pere-rodes",
+        "port-selva"
+      ],
+      "accommodation": "stay-port-selva",
+      "exactness": "exact",
+      "notes": "Track exacto sobre GPX oficial de Visit Pirineus, invertido para seguir Vilamaniscle → Llançà → El Port de la Selva.",
+      "dayNumber": 5,
+      "computedDistanceKm": 21.1,
+      "computedGainM": 1068,
+      "computedLossM": 1228,
+      "profile": [
+        {
+          "distanceKm": 0,
+          "elevationM": 160
+        },
+        {
+          "distanceKm": 0.4,
+          "elevationM": 195
+        },
+        {
+          "distanceKm": 0.9,
+          "elevationM": 228
+        },
+        {
+          "distanceKm": 1.4,
+          "elevationM": 252
+        },
+        {
+          "distanceKm": 1.9,
+          "elevationM": 236
+        },
+        {
+          "distanceKm": 2.3,
+          "elevationM": 215
+        },
+        {
+          "distanceKm": 2.8,
+          "elevationM": 219
+        },
+        {
+          "distanceKm": 3.2,
+          "elevationM": 206
+        },
+        {
+          "distanceKm": 3.6,
+          "elevationM": 195
+        },
+        {
+          "distanceKm": 3.9,
+          "elevationM": 180
+        },
+        {
+          "distanceKm": 4.2,
+          "elevationM": 136
+        },
+        {
+          "distanceKm": 4.5,
+          "elevationM": 157
+        },
+        {
+          "distanceKm": 4.9,
+          "elevationM": 181
+        },
+        {
+          "distanceKm": 5.3,
+          "elevationM": 218
+        },
+        {
+          "distanceKm": 5.6,
+          "elevationM": 233
+        },
+        {
+          "distanceKm": 5.9,
+          "elevationM": 227
+        },
+        {
+          "distanceKm": 6.3,
+          "elevationM": 175
+        },
+        {
+          "distanceKm": 6.7,
+          "elevationM": 157
+        },
+        {
+          "distanceKm": 7,
+          "elevationM": 137
+        },
+        {
+          "distanceKm": 7.4,
+          "elevationM": 114
+        },
+        {
+          "distanceKm": 7.9,
+          "elevationM": 64
+        },
+        {
+          "distanceKm": 8.3,
+          "elevationM": 26
+        },
+        {
+          "distanceKm": 8.9,
+          "elevationM": 7
+        },
+        {
+          "distanceKm": 9.3,
+          "elevationM": 6
+        },
+        {
+          "distanceKm": 9.5,
+          "elevationM": 22
+        },
+        {
+          "distanceKm": 9.9,
+          "elevationM": 33
+        },
+        {
+          "distanceKm": 10.2,
+          "elevationM": 39
+        },
+        {
+          "distanceKm": 10.5,
+          "elevationM": 53
+        },
+        {
+          "distanceKm": 10.7,
+          "elevationM": 75
+        },
+        {
+          "distanceKm": 11,
+          "elevationM": 106
+        },
+        {
+          "distanceKm": 11.3,
+          "elevationM": 163
+        },
+        {
+          "distanceKm": 11.5,
+          "elevationM": 195
+        },
+        {
+          "distanceKm": 11.7,
+          "elevationM": 239
+        },
+        {
+          "distanceKm": 11.9,
+          "elevationM": 275
+        },
+        {
+          "distanceKm": 12.1,
+          "elevationM": 315
+        },
+        {
+          "distanceKm": 12.3,
+          "elevationM": 355
+        },
+        {
+          "distanceKm": 12.5,
+          "elevationM": 400
+        },
+        {
+          "distanceKm": 12.8,
+          "elevationM": 455
+        },
+        {
+          "distanceKm": 13.1,
+          "elevationM": 436
+        },
+        {
+          "distanceKm": 13.5,
+          "elevationM": 449
+        },
+        {
+          "distanceKm": 13.8,
+          "elevationM": 466
+        },
+        {
+          "distanceKm": 14.2,
+          "elevationM": 482
+        },
+        {
+          "distanceKm": 14.5,
+          "elevationM": 507
+        },
+        {
+          "distanceKm": 14.9,
+          "elevationM": 521
+        },
+        {
+          "distanceKm": 15.3,
+          "elevationM": 510
+        },
+        {
+          "distanceKm": 15.6,
+          "elevationM": 498
+        },
+        {
+          "distanceKm": 16,
+          "elevationM": 476
+        },
+        {
+          "distanceKm": 16.3,
+          "elevationM": 454
+        },
+        {
+          "distanceKm": 16.6,
+          "elevationM": 371
+        },
+        {
+          "distanceKm": 16.8,
+          "elevationM": 315
+        },
+        {
+          "distanceKm": 17.1,
+          "elevationM": 272
+        },
+        {
+          "distanceKm": 17.4,
+          "elevationM": 218
+        },
+        {
+          "distanceKm": 17.7,
+          "elevationM": 141
+        },
+        {
+          "distanceKm": 18,
+          "elevationM": 65
+        },
+        {
+          "distanceKm": 18.2,
+          "elevationM": 52
+        },
+        {
+          "distanceKm": 18.5,
+          "elevationM": 79
+        },
+        {
+          "distanceKm": 18.9,
+          "elevationM": 91
+        },
+        {
+          "distanceKm": 19.3,
+          "elevationM": 54
+        },
+        {
+          "distanceKm": 19.5,
+          "elevationM": 17
+        },
+        {
+          "distanceKm": 20,
+          "elevationM": 8
+        },
+        {
+          "distanceKm": 20.2,
+          "elevationM": 6
+        },
+        {
+          "distanceKm": 20.4,
+          "elevationM": 7
+        },
+        {
+          "distanceKm": 20.6,
+          "elevationM": 0
+        },
+        {
+          "distanceKm": 21.1,
+          "elevationM": 0
+        }
+      ],
+      "narrative": "Etapa más compacta pero intensa, con subida panorámica hacia Sant Pere de Rodes y un final precioso bajando al mar en El Port de la Selva.",
+      "segmentIds": [
+        "day5-hiking"
+      ],
+      "accommodationPointId": "stay-port-selva",
+      "highlightPointIds": [
+        "llanca",
+        "sant-pere-rodes",
+        "port-selva"
+      ]
+    },
+    {
+      "id": "day6",
+      "title": "El Port de la Selva → Cap de Creus → Cadaqués",
+      "date": "2026-04-25",
+      "weekday": "Sábado",
+      "dateLabel": "Sábado 25 abril 2026",
+      "kmLabel": "24,6 km",
+      "gainLabel": "~+717 m",
+      "durationLabel": "~9h15",
+      "type": "hiking",
+      "sourceRefs": [
+        "stage01",
+        "capCreus19"
+      ],
+      "highlights": [
+        "port-selva",
+        "cap-creus",
+        "cadaques"
+      ],
+      "accommodation": "stay-cadaques",
+      "exactness": "exact",
+      "notes": "Track exacto combinando el GPX oficial de la etapa GR11 Cap de Creus - El Port de la Selva invertido y el itinerario oficial del Parc Natural Cadaqués - Cap de Creus invertido.",
+      "dayNumber": 6,
+      "computedDistanceKm": 24.6,
+      "computedGainM": 1047,
+      "computedLossM": 1100,
+      "profile": [
+        {
+          "distanceKm": 0,
+          "elevationM": 0
+        },
+        {
+          "distanceKm": 0.6,
+          "elevationM": 7
+        },
+        {
+          "distanceKm": 1.4,
+          "elevationM": 45
+        },
+        {
+          "distanceKm": 2.2,
+          "elevationM": 90
+        },
+        {
+          "distanceKm": 2.9,
+          "elevationM": 123
+        },
+        {
+          "distanceKm": 3.6,
+          "elevationM": 161
+        },
+        {
+          "distanceKm": 4.3,
+          "elevationM": 186
+        },
+        {
+          "distanceKm": 4.8,
+          "elevationM": 128
+        },
+        {
+          "distanceKm": 5.4,
+          "elevationM": 148
+        },
+        {
+          "distanceKm": 6,
+          "elevationM": 141
+        },
+        {
+          "distanceKm": 6.6,
+          "elevationM": 136
+        },
+        {
+          "distanceKm": 7.2,
+          "elevationM": 71
+        },
+        {
+          "distanceKm": 7.6,
+          "elevationM": 81
+        },
+        {
+          "distanceKm": 8.2,
+          "elevationM": 137
+        },
+        {
+          "distanceKm": 8.9,
+          "elevationM": 105
+        },
+        {
+          "distanceKm": 9.6,
+          "elevationM": 130
+        },
+        {
+          "distanceKm": 10.4,
+          "elevationM": 107
+        },
+        {
+          "distanceKm": 11.3,
+          "elevationM": 79
+        },
+        {
+          "distanceKm": 11.8,
+          "elevationM": 97
+        },
+        {
+          "distanceKm": 12.2,
+          "elevationM": 106
+        },
+        {
+          "distanceKm": 12.6,
+          "elevationM": 93
+        },
+        {
+          "distanceKm": 13,
+          "elevationM": 60
+        },
+        {
+          "distanceKm": 13.6,
+          "elevationM": 69
+        },
+        {
+          "distanceKm": 14.1,
+          "elevationM": 32
+        },
+        {
+          "distanceKm": 14.5,
+          "elevationM": 33
+        },
+        {
+          "distanceKm": 15,
+          "elevationM": 73
+        },
+        {
+          "distanceKm": 15.4,
+          "elevationM": 11
+        },
+        {
+          "distanceKm": 16,
+          "elevationM": 76
+        },
+        {
+          "distanceKm": 16.1,
+          "elevationM": 61
+        },
+        {
+          "distanceKm": 16.2,
+          "elevationM": 42
+        },
+        {
+          "distanceKm": 16.3,
+          "elevationM": 32
+        },
+        {
+          "distanceKm": 16.4,
+          "elevationM": 13
+        },
+        {
+          "distanceKm": 16.5,
+          "elevationM": 14
+        },
+        {
+          "distanceKm": 16.6,
+          "elevationM": 13
+        },
+        {
+          "distanceKm": 16.7,
+          "elevationM": 23
+        },
+        {
+          "distanceKm": 16.8,
+          "elevationM": 30
+        },
+        {
+          "distanceKm": 16.9,
+          "elevationM": 33
+        },
+        {
+          "distanceKm": 17.1,
+          "elevationM": 38
+        },
+        {
+          "distanceKm": 17.2,
+          "elevationM": 31
+        },
+        {
+          "distanceKm": 17.3,
+          "elevationM": 27
+        },
+        {
+          "distanceKm": 17.5,
+          "elevationM": 33
+        },
+        {
+          "distanceKm": 17.6,
+          "elevationM": 29
+        },
+        {
+          "distanceKm": 17.8,
+          "elevationM": 22
+        },
+        {
+          "distanceKm": 17.9,
+          "elevationM": 34
+        },
+        {
+          "distanceKm": 18.1,
+          "elevationM": 45
+        },
+        {
+          "distanceKm": 18.2,
+          "elevationM": 45
+        },
+        {
+          "distanceKm": 18.4,
+          "elevationM": 59
+        },
+        {
+          "distanceKm": 18.5,
+          "elevationM": 63
+        },
+        {
+          "distanceKm": 18.6,
+          "elevationM": 62
+        },
+        {
+          "distanceKm": 18.8,
+          "elevationM": 59
+        },
+        {
+          "distanceKm": 19.3,
+          "elevationM": 63
+        },
+        {
+          "distanceKm": 19.6,
+          "elevationM": 48
+        },
+        {
+          "distanceKm": 20,
+          "elevationM": 30
+        },
+        {
+          "distanceKm": 20.3,
+          "elevationM": 5
+        },
+        {
+          "distanceKm": 20.6,
+          "elevationM": 43
+        },
+        {
+          "distanceKm": 21,
+          "elevationM": 18
+        },
+        {
+          "distanceKm": 21.6,
+          "elevationM": 1
+        },
+        {
+          "distanceKm": 21.9,
+          "elevationM": 3
+        },
+        {
+          "distanceKm": 22.2,
+          "elevationM": 7
+        },
+        {
+          "distanceKm": 22.6,
+          "elevationM": 10
+        },
+        {
+          "distanceKm": 23.3,
+          "elevationM": 4
+        },
+        {
+          "distanceKm": 23.9,
+          "elevationM": 10
+        },
+        {
+          "distanceKm": 24.6,
+          "elevationM": 2
+        },
+        {
+          "distanceKm": 25.1,
+          "elevationM": 5
+        }
+      ],
+      "narrative": "Gran final costero: salida junto al Mediterráneo, paso por el faro y los paisajes minerales de Cap de Creus y cierre caminando hacia Cadaqués.",
+      "segmentIds": [
+        "day6-hiking-part-1",
+        "day6-hiking-part-2"
+      ],
+      "accommodationPointId": "stay-cadaques",
+      "highlightPointIds": [
+        "port-selva",
+        "cap-creus",
+        "cadaques"
+      ]
+    }
+  ],
+  "placesIndex": {
+    "town-setcases": {
+      "id": "town-setcases",
+      "label": "Setcases",
+      "kind": "town",
+      "optional": false,
+      "displayName": "Setcases",
+      "geocodeStatus": "track-derived",
+      "geocodeQuery": "stage09",
+      "description": "Setcases és un municipi de la comarca del Ripollès. És la capçalera del riu Ter. Està situat a l'extrem nord de la regió de l'Alt Ter.",
+      "photo": "/images/highlights/town-setcases.png",
+      "photoCredit": "https://ca.wikipedia.org/wiki/Setcases",
+      "photoTitle": "Setcases"
+    },
+    "town-beget": {
+      "id": "town-beget",
+      "label": "Beget",
+      "kind": "town",
+      "optional": false,
+      "displayName": "Beget",
+      "geocodeStatus": "track-derived",
+      "geocodeQuery": "stage08",
+      "description": "Beget",
+      "photo": null,
+      "photoCredit": "",
+      "photoTitle": "Beget"
+    },
+    "town-albanya": {
+      "id": "town-albanya",
+      "label": "Albanyà",
+      "kind": "town",
+      "optional": false,
+      "displayName": "Albanyà",
+      "geocodeStatus": "track-derived",
+      "geocodeQuery": "stage06",
+      "description": "Albanyà",
+      "photo": null,
+      "photoCredit": "",
+      "photoTitle": "Albanyà"
+    },
+    "town-vilamaniscle": {
+      "id": "town-vilamaniscle",
+      "label": "Vilamaniscle",
+      "kind": "town",
+      "optional": false,
+      "displayName": "Vilamaniscle",
+      "geocodeStatus": "track-derived",
+      "geocodeQuery": "stage03",
+      "description": "Vilamaniscle és un municipi de la comarca de l'Alt Empordà. Situat a la part occidental de la serra de la Baga d'en Ferran, branca de la serra de l'Albera està cobert en bona part del seu territori amb boscos de pins i alzines sureres. S'hi conreen oliveres i vinya. El seu vi és apreciat a tota la comarca. S'han creat nous serveis d'allotjament degut al turisme creixent que té.",
+      "photo": "/images/highlights/town-vilamaniscle.jpg",
+      "photoCredit": "https://ca.wikipedia.org/wiki/Vilamaniscle",
+      "photoTitle": "Vilamaniscle"
+    },
+    "town-port-selva": {
+      "id": "town-port-selva",
+      "label": "El Port de la Selva",
+      "kind": "town",
+      "optional": false,
+      "displayName": "El Port de la Selva",
+      "geocodeStatus": "track-derived",
+      "geocodeQuery": "stage01",
+      "description": "El Port de la Selva",
+      "photo": null,
+      "photoCredit": "",
+      "photoTitle": "El Port de la Selva"
+    },
+    "town-cadaques": {
+      "id": "town-cadaques",
+      "label": "Cadaqués",
+      "kind": "town",
+      "optional": false,
+      "displayName": "Cadaqués",
+      "geocodeStatus": "track-derived",
+      "geocodeQuery": "capCreus19",
+      "description": "Cadaqués",
+      "photo": null,
+      "photoCredit": "",
+      "photoTitle": "Cadaqués"
+    },
+    "vall-nuria": {
+      "id": "vall-nuria",
+      "label": "Vall de Núria",
+      "kind": "highlight",
+      "optional": false,
+      "displayName": "Vall de Núria",
+      "geocodeStatus": "track-derived",
+      "geocodeQuery": "stage09",
+      "description": "La vall de Núria és una vall pirinenca al terme municipal de Queralbs, a la comarca del Ripollès, a les Comarques Gironines. Es troba a una altitud de 1.964 metres sobre el nivell del mar, envoltada de cims de gairebé tres mil metres, on neixen una multitud de fonts i torrents. Per raó de la seva situació geogràfica i el clima, presenta una flora i una fauna característiques de la muntanya medioeuropea i de l'alta muntanya alpina. A més, hi viuen espècies vegetals i animals endèmiques dels Pirineus. Aquesta vall és accessible mitjançant un tren cremallera o bé a peu, seguint algun dels camins de muntanya que arriben fins a Núria. Destaca particularment per no tenir cap carretera d'accés a la vall, cosa que fa que no hi hagi cotxes i es preservi més l'espai natural, eliminant els espais d'aparcament i la contaminació acústica i atmosfèrica dels vehicles a motor.",
+      "photo": "/images/highlights/vall-nuria.jpg",
+      "photoCredit": "https://ca.wikipedia.org/wiki/Vall_de_N%C3%BAria",
+      "photoTitle": "Vall de Núria"
+    },
+    "ulldeter": {
+      "id": "ulldeter",
+      "label": "Ulldeter",
+      "kind": "highlight",
+      "optional": false,
+      "displayName": "Refugi d'Ulldeter, Carretera de Vallter2000, Vallter2000, Setcases, Ripollès, Girona, Catalunya, 17869, España",
+      "geocodeStatus": "exact",
+      "geocodeQuery": "Refugi d'Ulldeter, Setcases, Girona, Catalunya, Spain",
+      "description": "Ulldeter és un circ muntanyós del Pirineu Oriental situat al nord del municipi de Setcases (Ripollès). El seu nom prové del fet que acull el naixement del riu Ter.",
+      "photo": "/images/highlights/ulldeter.jpg",
+      "photoCredit": "https://ca.wikipedia.org/wiki/Ulldeter",
+      "photoTitle": "Ulldeter"
+    },
+    "beget": {
+      "id": "beget",
+      "label": "Beget",
+      "kind": "highlight",
+      "optional": false,
+      "displayName": "Beget",
+      "geocodeStatus": "track-derived",
+      "geocodeQuery": "stage08",
+      "description": "Beget és un poble de l'Alta Garrotxa, i també un antic municipi fins a l'any 1969, en què fou agregat al terme municipal de Camprodon (Ripollès).",
+      "photo": "/images/highlights/beget.jpg",
+      "photoCredit": "https://ca.wikipedia.org/wiki/Beget",
+      "photoTitle": "Beget"
+    },
+    "sant-aniol": {
+      "id": "sant-aniol",
+      "label": "Sant Aniol d'Aguja",
+      "kind": "highlight",
+      "optional": false,
+      "displayName": "Sant Aniol d'Aguja",
+      "geocodeStatus": "track-derived",
+      "geocodeQuery": "stage06",
+      "description": "Sant Aniol d'Aguja és una església romànica del municipi de Montagut i Oix (Garrotxa). Aquest edifici és a la vora de la riera de Sant Aniol, que passa a prop del seu absis, i al fons de la vall d'Aguja. L'església, també anomenada Sant Aniol d'Uja i Sant Aniol d'Aguges, és un temple catòlic del bisbat de Girona dedicat a Sant Aniol.",
+      "photo": "/images/highlights/sant-aniol.JPG",
+      "photoCredit": "https://ca.wikipedia.org/wiki/Sant_Aniol_d'Aguja",
+      "photoTitle": "Sant Aniol d'Aguja"
+    },
+    "albanya": {
+      "id": "albanya",
+      "label": "Albanyà / Alta Garrotxa",
+      "kind": "highlight",
+      "optional": false,
+      "displayName": "Albanyà / Alta Garrotxa",
+      "geocodeStatus": "track-derived",
+      "geocodeQuery": "stage06",
+      "description": "Albanyà és un municipi de la comarca de l'Alt Empordà, a les Comarques Gironines, a 239 metres d'altitud. Forma part del consorci Salines-Bassegoda i està inclòs al PEIN de l'Alta Garrotxa.",
+      "photo": "/images/highlights/albanya.png",
+      "photoCredit": "https://ca.wikipedia.org/wiki/Albany%C3%A0",
+      "photoTitle": "Albanyà"
+    },
+    "la-jonquera": {
+      "id": "la-jonquera",
+      "label": "La Jonquera",
+      "kind": "highlight",
+      "optional": false,
+      "displayName": "la Jonquera, Alt Empordà, Girona, Catalunya, España",
+      "geocodeStatus": "exact",
+      "geocodeQuery": "La Jonquera, Girona, Catalunya, Spain",
+      "description": "La Jonquera és un municipi de la comarca de l'Alt Empordà. En la legislatura de 2015 a 2019, l'alcaldessa fou Sònia Martínez Juli.",
+      "photo": null,
+      "photoCredit": "https://ca.wikipedia.org/wiki/La_Jonquera",
+      "photoTitle": "La Jonquera"
+    },
+    "castell-requesens": {
+      "id": "castell-requesens",
+      "label": "Castell de Requesens",
+      "kind": "highlight",
+      "optional": false,
+      "displayName": "Castell de Requesens, Camí de la Font Rovellada, Requesens, la Jonquera, Alt Empordà, Girona, Catalunya, 17708, España",
+      "geocodeStatus": "exact",
+      "geocodeQuery": "Castell de Requesens, La Jonquera, Girona, Catalunya, Spain",
+      "description": "El castell de Requesens està situat sobre un turó, que domina totes les valls meridionals del puig Neulós, a uns 7 km a l'est del veïnat de Requesens. El seu terme correspon al de l'antic poble de Requesens del municipi de la Jonquera.",
+      "photo": "/images/highlights/castell-requesens.jpg",
+      "photoCredit": "https://ca.wikipedia.org/wiki/Castell_de_Requesens",
+      "photoTitle": "Castell de Requesens"
+    },
+    "sant-quirze-colera": {
+      "id": "sant-quirze-colera",
+      "label": "Sant Quirze de Colera",
+      "kind": "highlight",
+      "optional": false,
+      "displayName": "Monestir de Sant Quirze de Colera, GR11, Rabós, Alt Empordà, Girona, Catalunya, 17781, España",
+      "geocodeStatus": "exact",
+      "geocodeQuery": "Monestir de Sant Quirze de Colera, Rabos, Girona, Catalunya, Spain",
+      "description": "El monestir de Sant Quirze de Colera és una abadia benedictina de l'antic comtat d'Empúries, dins els límits del bisbat de Girona, situada a l'actual terme municipal de Rabós. És un conjunt arquitectònic format per la basílica de Sant Quirze, diverses dependències monàstiques organitzades al voltant del pati del claustre, una torre de defensa i restes d'un pany de muralla, l'església de Santa Maria i les restes de l'antic hospital. Està situat a uns cinc quilòmetres de distància i prop del camí vell al coll de Banyuls. És una obra declarada bé cultural d'interès nacional.",
+      "photo": null,
+      "photoCredit": "https://ca.wikipedia.org/wiki/Monestir_de_Sant_Quirze_de_Colera",
+      "photoTitle": "Monestir de Sant Quirze de Colera"
+    },
+    "llanca": {
+      "id": "llanca",
+      "label": "Llançà",
+      "kind": "highlight",
+      "optional": false,
+      "displayName": "Llançà, Alt Empordà, Girona, Catalunya, 17490, España",
+      "geocodeStatus": "exact",
+      "geocodeQuery": "Llanca, Girona, Catalunya, Spain",
+      "description": "Llançà és un municipi de la Costa Brava nord, a la comarca de l'Alt Empordà. És al nord del Cap de Creus.",
+      "photo": "/images/highlights/llanca.png",
+      "photoCredit": "https://ca.wikipedia.org/wiki/Llan%C3%A7%C3%A0",
+      "photoTitle": "Llançà"
+    },
+    "sant-pere-rodes": {
+      "id": "sant-pere-rodes",
+      "label": "Sant Pere de Rodes",
+      "kind": "highlight",
+      "optional": false,
+      "displayName": "Monestir de Sant Pere de Rodes, Camí del Monestir, Sant Pere de Rodes, el Port de la Selva, Alt Empordà, Girona, Catalunya, 17495, España",
+      "geocodeStatus": "exact",
+      "geocodeQuery": "Monestir de Sant Pere de Rodes, El Port de la Selva, Girona, Catalunya, Spain",
+      "description": "El monestir de Sant Pere de Rodes fou un monestir benedictí de l'antic comtat d'Empúries, dins els límits del bisbat de Girona, situat a l'actual terme municipal del Port de la Selva. En concret, es troba al sud-oest de la població del Port de la Selva, al vessant de llevant de la muntanya de Verdera, a la serra de Roda i prop de les ruïnes del poblat medieval de Santa Creu de Rodes i del castell de Sant Salvador de Verdera.",
+      "photo": "/images/highlights/sant-pere-rodes.jpg",
+      "photoCredit": "https://ca.wikipedia.org/wiki/Monestir_de_Sant_Pere_de_Rodes",
+      "photoTitle": "Monestir de Sant Pere de Rodes"
+    },
+    "port-selva": {
+      "id": "port-selva",
+      "label": "El Port de la Selva",
+      "kind": "highlight",
+      "optional": false,
+      "displayName": "El Port de la Selva",
+      "geocodeStatus": "track-derived",
+      "geocodeQuery": "stage01",
+      "description": "El Port de la Selva és un municipi de la comarca de l'Alt Empordà. El terme municipal inclou la població de la Vall de Santa Creu. La vila del Port de la Selva és al nord de la península del cap de Creus, al sector septentrional de la Costa Brava.",
+      "photo": null,
+      "photoCredit": "https://ca.wikipedia.org/wiki/El_Port_de_la_Selva",
+      "photoTitle": "El Port de la Selva"
+    },
+    "cap-creus": {
+      "id": "cap-creus",
+      "label": "Cap de Creus",
+      "kind": "highlight",
+      "optional": false,
+      "displayName": "Cap de Creus",
+      "geocodeStatus": "track-derived",
+      "geocodeQuery": "stage01",
+      "description": "El cap de Creus és un cap del litoral de l'Alt Empordà (Catalunya), situat a l'extrem nord de la Costa Brava, al final d'una petita península que s'endinsa a la mar Mediterrània i que separa el golf de Roses, al sud, del golf del Lleó, al nord. Aquest cap és el punt més oriental de la península Ibèrica. L'àrea del cap pertany al terme municipal de Cadaqués i forma part del Parc Natural del Cap de Creus. A la contrada, és conegut també com a cap del Diable, i els sectors N i S de mar que el cap separa, com a mar d'Amunt i mar d'Avall, respectivament. Sobre el promontori més pròxim a la punta, a 87 msnm, hi ha un far construït sobre els fonaments d'una torre de \nsenyals romana, que a la baixa edat mitjana també va servir com a torre de guaita.",
+      "photo": null,
+      "photoCredit": "https://ca.wikipedia.org/wiki/Cap_de_Creus",
+      "photoTitle": "Cap de Creus"
+    },
+    "cadaques": {
+      "id": "cadaques",
+      "label": "Cadaqués",
+      "kind": "highlight",
+      "optional": false,
+      "displayName": "Cadaqués",
+      "geocodeStatus": "track-derived",
+      "geocodeQuery": "capCreus19",
+      "description": "Cadaqués és un municipi de l'Alt Empordà, a la costa del cap de Creus. El nucli antic forma un conjunt històric protegit com a bé cultural d'interès nacional.",
+      "photo": null,
+      "photoCredit": "https://ca.wikipedia.org/wiki/Cadaqu%C3%A9s",
+      "photoTitle": "Cadaqués"
+    },
+    "stay-setcases": {
+      "id": "stay-setcases",
+      "label": "Apartaments Can Bundanci",
+      "kind": "accommodation",
+      "optional": false,
+      "displayName": "Setcases, Ripollès, Girona, Catalunya, 17869, España",
+      "geocodeStatus": "approximate",
+      "geocodeQuery": "Setcases, Girona, Catalunya, Spain",
+      "approximationReason": "alojamiento aproximado en el pueblo"
+    },
+    "stay-beget": {
+      "id": "stay-beget",
+      "label": "Hostal El Forn",
+      "kind": "accommodation",
+      "optional": false,
+      "displayName": "Hostal el Forn, Carrer de la Font, Beget, Camprodon, Ripollès, Girona, Catalunya, 17867, España",
+      "geocodeStatus": "exact",
+      "geocodeQuery": "Hostal El Forn, Beget, Girona, Catalunya, Spain"
+    },
+    "stay-albanya": {
+      "id": "stay-albanya",
+      "label": "TAIGA Bassegoda Park",
+      "kind": "accommodation",
+      "optional": false,
+      "displayName": "Albanyà, Alt Empordà, Girona, Catalunya, 17733, España",
+      "geocodeStatus": "approximate",
+      "geocodeQuery": "Albanya, Girona, Catalunya, Spain",
+      "approximationReason": "alojamiento aproximado en el pueblo"
+    },
+    "stay-vilamaniscle": {
+      "id": "stay-vilamaniscle",
+      "label": "El Penell Estudi Garbí / El Penell Estudi Mestral",
+      "kind": "accommodation",
+      "optional": false,
+      "displayName": "Vilamaniscle, Alt Empordà, Girona, Catalunya, 17781, España",
+      "geocodeStatus": "approximate",
+      "geocodeQuery": "Vilamaniscle, Girona, Catalunya, Spain",
+      "approximationReason": "alojamiento aproximado en el pueblo"
+    },
+    "stay-port-selva": {
+      "id": "stay-port-selva",
+      "label": "Habitacions La Font",
+      "kind": "accommodation",
+      "optional": false,
+      "displayName": "el Port de la Selva, Alt Empordà, Girona, Catalunya, 17489, España",
+      "geocodeStatus": "approximate",
+      "geocodeQuery": "El Port de la Selva, Girona, Catalunya, Spain",
+      "approximationReason": "alojamiento aproximado en el pueblo"
+    },
+    "stay-cadaques": {
+      "id": "stay-cadaques",
+      "label": "Hostal Marina Cadaqués",
+      "kind": "accommodation",
+      "optional": true,
+      "displayName": "Hostal Marina, Carrer de Sant Vicenç, Cadaqués, Alt Empordà, Girona, Catalunya, 17488, España",
+      "geocodeStatus": "exact",
+      "geocodeQuery": "Hostal Marina Cadaques, Cadaques, Girona, Catalunya, Spain"
+    },
+    "bus-albanya": {
+      "id": "bus-albanya",
+      "label": "Albanyà · parada bus",
+      "kind": "bus-stop",
+      "optional": false,
+      "displayName": "Albanyà, Alt Empordà, Girona, Catalunya, 17733, España",
+      "geocodeStatus": "exact",
+      "geocodeQuery": "Albanya, Girona, Catalunya, Spain",
+      "description": "Albanyà · parada bus",
+      "photo": null,
+      "photoCredit": "",
+      "photoTitle": "Albanyà · parada bus"
+    },
+    "bus-figueres": {
+      "id": "bus-figueres",
+      "label": "Figueres · estació bus",
+      "kind": "bus-stop",
+      "optional": false,
+      "displayName": "Estació d'autobusos de Figueres, Carrer de Joan Reglà, Figueres, Alt Empordà, Girona, Catalunya, 17600, España",
+      "geocodeStatus": "exact",
+      "geocodeQuery": "Estacio d'autobusos de Figueres, Figueres, Girona, Catalunya, Spain",
+      "description": "Figueres és una ciutat de Catalunya, capital de la comarca de l'Alt Empordà i cap del partit judicial de Figueres. És el principal nucli urbà i el pol econòmic i comercial de l'Empordà.",
+      "photo": null,
+      "photoCredit": "https://ca.wikipedia.org/wiki/Figueres",
+      "photoTitle": "Figueres"
+    },
+    "bus-jonquera": {
+      "id": "bus-jonquera",
+      "label": "La Jonquera · parada bus",
+      "kind": "bus-stop",
+      "optional": false,
+      "displayName": "la Jonquera, Alt Empordà, Girona, Catalunya, España",
+      "geocodeStatus": "exact",
+      "geocodeQuery": "La Jonquera, Girona, Catalunya, Spain",
+      "description": "La Jonquera · parada bus",
+      "photo": null,
+      "photoCredit": "",
+      "photoTitle": "La Jonquera · parada bus"
+    }
+  },
+  "bbox": [
+    2.153836,
+    42.2612,
+    3.321643,
+    42.454985
+  ],
+  "dayTrackDistances": {
+    "day3": 32.2,
+    "day4": 40.9,
+    "day6": 25.1
+  }
+}
