@@ -232,6 +232,24 @@ routePromise
       });
       compactSummary.hidden = Boolean(state.activeDayId);
       overviewButton.hidden = !state.activeDayId;
+      updateOverviewButtonPosition();
+    }
+
+    function updateOverviewButtonPosition() {
+      if (!isTouchDevice()) {
+        overviewButton.style.top = "";
+        return;
+      }
+
+      const header = document.querySelector(".floating-header");
+      if (!header) {
+        return;
+      }
+
+      const headerRect = header.getBoundingClientRect();
+      const safeTop = 12;
+      const gap = 10;
+      overviewButton.style.top = `${Math.round(headerRect.bottom + gap + safeTop)}px`;
     }
 
     function refreshRoutes() {
@@ -716,6 +734,7 @@ routePromise
     overviewButton.addEventListener("click", resetOverview);
 
     window.addEventListener("resize", () => {
+      updateOverviewButtonPosition();
       if (state.activeDayId) {
         fitDay(state.activeDayId, { animate: false });
       } else {
