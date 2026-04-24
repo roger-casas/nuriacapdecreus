@@ -1,6 +1,6 @@
-# GR11 / Cap de Creus Interactive Map
+# Transpirenaica / Cap de Creus Interactive Map
 
-A polished static web map for a real 6-day trek between Vall de Núria and Cadaqués, built around real local GeoJSON tracks, stage-by-stage route exploration, highlights, and the special Thursday bus transfer.
+A polished static web map for the final 7-day trek between Núria and Cadaqués via Cap de Creus, built around local GeoJSON tracks, stage-by-stage route exploration, highlights, and accommodation details.
 
 The app is designed to feel useful first and flashy second: fast stage switching, smooth card-to-map transitions, responsive route highlighting, and synced route/profile exploration on both desktop and mobile.
 
@@ -10,7 +10,7 @@ The app is designed to feel useful first and flashy second: fast stage switching
 - Bottom carousel with smooth stage transitions and map recentering
 - Elevation profile for each day, plus synced route preview when hovering or scrubbing the selected stage
 - Desktop hover interactions and mobile touch interactions tailored to the same route-inspection workflow
-- Distinct rendering for hiking and bus segments, plus highlights and stage endpoints on the map
+- Hiking route rendering, plus highlights and official stage endpoints on the map
 
 ## Stack
 
@@ -46,70 +46,33 @@ npm run build
 - On desktop, hovering the selected route or profile reveals the matching point on the other view.
 - On mobile, the same route/profile inspection flow is adapted to touch gestures instead of relying on hover.
 
-## Track sources
+## Final Itinerary
 
-### Day 1
-- Visit Pirineus, stage 9: Setcases - Santuari de Núria
-- Page: https://www.visitpirineus.com/fr/que-fer/rutes/etapa-de-ruta/etapa-9-setcases-santuari-de-nuria
-- App usage: reversed to represent Núria → Setcases
+Sunday 26 April 2026 is only the approach/logistics day to reach the Queralbs/Núria area.
 
-### Day 2
-- Visit Pirineus, stage 8: Beget - Setcases
-- Page: https://www.visitpirineus.com/ca/que-fer/rutes/etapa-de-ruta/etapa-8-beget-setcases
-- App usage: reversed to represent Setcases → Beget
+| Day | Date | Stage | Distance | Elevation | Duration | Accommodation |
+| --- | --- | --- | ---: | --- | --- | --- |
+| 1 | Monday 27 April | Núria → Setcases | 19.5 km | +1,060 m / -1,750 m | 6h40 | Apartaments Can Bundanci |
+| 2 | Tuesday 28 April | Setcases → Sant Aniol | 38.5 km | +1,623 m / -2,450 m | 10h30 | Refugi de Sant Aniol |
+| 3 | Wednesday 29 April | Sant Aniol → Maçanet de Cabrenys | 35.8 km | +1,546 m / -1,631 m | 10h | Camping Maçanet de Cabrenys |
+| 4 | Thursday 30 April | Maçanet de Cabrenys → La Jonquera | 24.9 km | +542 m / -806 m | 6h | Hotel Jonquera |
+| 5 | Friday 1 May | La Jonquera → Vilamaniscle | 41.2 km | +1,331 m / -1,292 m | 10h | Mestral Studio el Penell |
+| 6 | Saturday 2 May | Vilamaniscle → Port de la Selva | 21.2 km | +760 m / -910 m | 5h45 | Hotel Carrer Major / Airbnb |
+| 7 | Sunday 3 May | Port de la Selva → Cap de Creus → Cadaqués | 22.2 km | +752 m / -788 m | 6h | none / end of route |
 
-### Day 3
-- Visit Pirineus, stage 7: Sant Aniol d'Aguja - Beget
-- Page: https://www.visitpirineus.com/ca/que-fer/rutes/etapa-de-ruta/etapa-7-sant-aniol-daguja-beget
-- Visit Pirineus, stage 6: Albanyà - Sant Aniol d'Aguja
-- Page: https://www.visitpirineus.com/ca/que-fer/rutes/etapa-de-ruta/etapa-6-albanya-sant-aniol-daguja
-- App usage: both reversed and combined for Beget → Sant Aniol d'Aguja → Albanyà
+Final hiking totals: 7 days, 203.3 km, +7,614 m, -9,627 m.
 
-### Day 4
-- Visit Pirineus, stage 4: Requesens - La Vajol
-- Page: https://www.visitpirineus.com/fr/que-fer/rutes/etapa-de-ruta/etapa-4-requesens-la-vajol
-- Visit Pirineus, stage 3: Vilamaniscle - Requesens
-- Page: https://www.visitpirineus.com/en/que-fer/rutes/etapa-de-ruta/etapa-3-vilamaniscle-requesens
-- App usage:
-  - hiking: clipped from the official stage 4 track up to La Jonquera, reversed to Requesens, plus stage 3 reversed to Vilamaniscle
-  - bus: approximate road geometry between Albanyà, Figueres, and La Jonquera based on real waypoints geocoded with Nominatim and routed with OSRM
+## Official Stage Endpoints
 
-### Day 5
-- Visit Pirineus, stage 2: El Port de la Selva - Llançà - Vilamaniscle
-- Page: https://www.visitpirineus.com/en/que-fer/rutes/etapa-de-ruta/etapa-2-el-port-de-la-selva-llanca-vilamaniscle
-- App usage: reversed to represent Vilamaniscle → Llançà → El Port de la Selva
-
-### Day 6
-- Visit Pirineus, stage 1: Cap de Creus - El Port de la Selva
-- Page: https://www.visitpirineus.com/es/que-fer/rutes/etapa-de-ruta/etapa-1-cap-de-creus-el-port-de-la-selva
-- Parc Natural del Cap de Creus, itinerary 19: Cadaqués - Cap de Creus
-- Itineraries index page: https://parcsnaturals.gencat.cat/es/xarxa-de-parcs/cap-creus/gaudeix-del-parc/equipaments-i-itineraris/itineraris/
-- Track used by the importer: https://parcsnaturals.gencat.cat/web/.content/Xarxa-de-parcs/cap_de_creus/gaudeix-parc/equipaments-i-itineraris/itineraris-terrestres/Tracks/19.PNCC-CADAQUES-CAP-CREUS.gpx.zip
-- App usage: both tracks reversed and combined for El Port de la Selva → Cap de Creus → Cadaqués
-
-## Segment accuracy
-
-- Day 1: exact
-- Day 2: exact
-- Day 3: exact
-- Day 4 hiking: exact on official tracks, with the official stage track clipped at La Jonquera so the hiking day starts where your trek begins
-- Day 4 bus: approximate, since there is no public GPX for the service; represented over roads using real stops
-- Day 5: exact
-- Day 6: exact
-
-## Accommodation and geocoding
-
-Geocoded with confidence:
-
-- Hostal El Forn, Beget
-- Hostal Marina Cadaqués
-
-Marked as approximate within the town:
-
-- Apartaments Can Bundanci, Setcases
-- TAIGA Bassegoda Park, Albanyà
-- El Penell Estudi Garbí / El Penell Estudi Mestral, Vilamaniscle
-- Habitacions La Font, El Port de la Selva
+- Núria
+- Setcases
+- Sant Aniol
+- Maçanet de Cabrenys
+- La Jonquera
+- Vilamaniscle
+- Port de la Selva
+- Cap de Creus
+- Cadaqués
 
 ## Relevant structure
 

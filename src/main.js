@@ -230,17 +230,11 @@ routePromise
       carousel.querySelectorAll("[data-stage-card]").forEach((card) => {
         card.classList.toggle("is-active", card.dataset.stageCard === state.activeDayId);
       });
-      compactSummary.hidden = Boolean(state.activeDayId);
       overviewButton.hidden = !state.activeDayId;
       updateOverviewButtonPosition();
     }
 
     function updateOverviewButtonPosition() {
-      if (!isTouchDevice()) {
-        overviewButton.style.top = "";
-        return;
-      }
-
       const header = document.querySelector(".floating-header");
       if (!header) {
         return;
@@ -250,6 +244,8 @@ routePromise
       const safeTop = 12;
       const gap = 10;
       overviewButton.style.top = `${Math.round(headerRect.bottom + gap + safeTop)}px`;
+      overviewButton.style.left = `${Math.round(headerRect.left)}px`;
+      overviewButton.style.right = "auto";
     }
 
     function refreshRoutes() {
@@ -363,6 +359,9 @@ routePromise
               return;
             }
 
+            event.preventDefault();
+            event.stopPropagation();
+
             const touch = event.touches[0];
             profileLongPressStart = {
               dayId,
@@ -394,6 +393,12 @@ routePromise
             if (event.touches.length !== 1) {
               return;
             }
+
+            if (profileLongPressStart?.dayId === dayId || profileTouchScrubbingDayId === dayId) {
+              event.preventDefault();
+              event.stopPropagation();
+            }
+
             const touch = event.touches[0];
 
             if (profileLongPressStart?.dayId === dayId && profileTouchScrubbingDayId !== dayId) {
@@ -413,12 +418,26 @@ routePromise
               return;
             }
 
-            event.preventDefault();
-            event.stopPropagation();
             updatePreviewFromProfile(dayId, profileDistanceFromTouch(chart, touch));
           },
           { passive: false }
         );
+
+        chart.addEventListener("contextmenu", (event) => {
+          if (!isTouchDevice() || state.activeDayId !== dayId) {
+            return;
+          }
+          event.preventDefault();
+          event.stopPropagation();
+        });
+
+        chart.addEventListener("selectstart", (event) => {
+          if (!isTouchDevice() || state.activeDayId !== dayId) {
+            return;
+          }
+          event.preventDefault();
+          event.stopPropagation();
+        });
 
         const stopProfileTouchScrub = (event) => {
           if (profileLongPressTimer) {
@@ -810,6 +829,8 @@ function renderOverviewCard(meta) {
 function renderDayCard(day, _accommodation, _highlights, isActive, profileHighlights = []) {
   const title = compactStageTitle(day.title);
   const stageLabel = `Etapa ${day.dayNumber}`;
+  const gainLabel = day.elevationGainLabel || `+${formatMeters(day.computedGainM)}`;
+  const lossLabel = day.elevationLossLabel || `-${formatMeters(day.computedLossM)}`;
   return `
     <article class="route-card ${isActive ? "is-active" : ""}" data-card-index="${day.dayNumber}" data-stage-card="${day.id}">
       <div class="route-card__head">
@@ -822,8 +843,8 @@ function renderDayCard(day, _accommodation, _highlights, isActive, profileHighli
       <div class="route-card__meta">
         ${renderMetricPill("distance", formatDistanceKm(day.computedDistanceKm))}
         ${renderMetricPill("time", formatDurationLabel(day.durationLabel))}
-        ${renderMetricPill("up", `+${formatMeters(day.computedGainM)}`)}
-        ${renderMetricPill("down", `-${formatMeters(day.computedLossM)}`)}
+        ${renderMetricPill("up", gainLabel)}
+        ${renderMetricPill("down", lossLabel)}
       </div>
 
       <div class="route-card__profile-wrap">
@@ -1193,9 +1214,15 @@ function buildEndpointPlaceIds(meta) {
   const nameToPlaceId = {
     nuria: "vall-nuria",
     setcases: "town-setcases",
+    "sant aniol": "sant-aniol",
+    "sant aniol d'aguja": "sant-aniol",
+    "macanet de cabrenys": "macanet",
+    "maçanet de cabrenys": "macanet",
+    "la jonquera": "la-jonquera",
     beget: "beget",
     albanya: "albanya",
     vilamaniscle: "town-vilamaniscle",
+    "port de la selva": "port-selva",
     "el port de la selva": "port-selva",
     "cap de creus": "cap-creus",
     cadaques: "cadaques"
@@ -1251,20 +1278,6 @@ function buildMapPlaceFeatures(placesGeoJson, meta, placesById, endpointPlaceIds
     addedIds.add(id);
   });
 
-  const figueres = placesById.get("bus-figueres");
-  if (figueres && !addedIds.has("bus-figueres")) {
-    result.push({
-      ...figueres,
-      properties: {
-        ...figueres.properties,
-        label: "Figueres",
-        kind: "highlight",
-        relatedDayIds: ["day4"]
-      }
-    });
-    addedIds.add("bus-figueres");
-  }
-
   placesGeoJson.features
     .filter((feature) => feature.properties.kind === "highlight" && !endpointPlaceIds.has(feature.properties.id))
     .forEach((feature) => {
@@ -1314,9 +1327,15 @@ function resolveEndpointPlaceId(name) {
   const nameToPlaceId = {
     nuria: "vall-nuria",
     setcases: "town-setcases",
+    "sant aniol": "sant-aniol",
+    "sant aniol d'aguja": "sant-aniol",
+    "macanet de cabrenys": "macanet",
+    "maçanet de cabrenys": "macanet",
+    "la jonquera": "la-jonquera",
     beget: "beget",
     albanya: "albanya",
     vilamaniscle: "town-vilamaniscle",
+    "port de la selva": "port-selva",
     "el port de la selva": "port-selva",
     "cap de creus": "cap-creus",
     cadaques: "cadaques"
@@ -1641,7 +1660,7 @@ function isTouchDevice() {
 }
 
 function formatOverviewGain(value) {
-  return `+${new Intl.NumberFormat("ca-ES").format(Math.round(value / 1000) * 1000)} m`;
+  return `+${new Intl.NumberFormat("ca-ES").format(Math.round(value / 100) * 100)} m`;
 }
 
 function buildOverviewProfile(days) {

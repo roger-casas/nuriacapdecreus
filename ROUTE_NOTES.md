@@ -1,10 +1,15 @@
 # ROUTE_NOTES
 
-| Etapa | Fecha | Km | Desnivel | Horas | Fuente del track | Alojamiento final |
-| --- | --- | ---: | ---: | --- | --- | --- |
-| Día 1 · Núria → Setcases | 2026-04-20 | 20,4 | +1.333 m | ~7 h | Visit Pirineus etapa 9, invertida | Apartaments Can Bundanci |
-| Día 2 · Setcases → Beget | 2026-04-21 | 22,8 | +1.069 m | 6h50 | Visit Pirineus etapa 8, invertida | Hostal El Forn |
-| Día 3 · Beget → Albanyà | 2026-04-22 | 33,0 | +2.061 m | ~10h20 | Visit Pirineus etapas 7 + 6, ambas invertidas | TAIGA Bassegoda Park |
-| Día 4 · Albanyà → Figueres → La Jonquera → Requesens → Vilamaniscle | 2026-04-23 | ~40,0 a pie | ~+1.730 m a pie | ~10h30 | Hiking: Visit Pirineus etapas 4 + 3; bus: aproximado con Nominatim + OSRM entre paradas reales | El Penell Estudi Garbí / El Penell Estudi Mestral |
-| Día 5 · Vilamaniscle → Llançà → El Port de la Selva | 2026-04-24 | 21,2 | +988 m | 5h45 | Visit Pirineus etapa 2, invertida | Habitacions La Font |
-| Día 6 · El Port de la Selva → Cap de Creus → Cadaqués | 2026-04-25 | 24,6 | ~+717 m | ~9h15 | Visit Pirineus etapa 1 invertida + Parc Natural del Cap de Creus itinerari 19 invertido | Hostal Marina Cadaqués |
+Sunday 26 April 2026 is an approach/logistics day to reach the Queralbs/Núria area. It is not an official hiking stage.
+
+| Stage | Date | Distance | Elevation | Estimated duration | Accommodation |
+| --- | --- | ---: | --- | --- | --- |
+| Day 1 · Núria → Setcases | Monday 27 April 2026 | 19.5 km | +1,060 m / -1,750 m | 6h40 | Apartaments Can Bundanci |
+| Day 2 · Setcases → Sant Aniol | Tuesday 28 April 2026 | 38.5 km | +1,623 m / -2,450 m | 10h30 | Refugi de Sant Aniol |
+| Day 3 · Sant Aniol → Maçanet de Cabrenys | Wednesday 29 April 2026 | 35.8 km | +1,546 m / -1,631 m | 10h | Camping Maçanet de Cabrenys |
+| Day 4 · Maçanet de Cabrenys → La Jonquera | Thursday 30 April 2026 | 24.9 km | +542 m / -806 m | 6h | Hotel Jonquera |
+| Day 5 · La Jonquera → Vilamaniscle | Friday 1 May 2026 | 41.2 km | +1,331 m / -1,292 m | 10h | Mestral Studio el Penell |
+| Day 6 · Vilamaniscle → Port de la Selva | Saturday 2 May 2026 | 21.2 km | +760 m / -910 m | 5h45 | Hotel Carrer Major / Airbnb |
+| Day 7 · Port de la Selva → Cap de Creus → Cadaqués | Sunday 3 May 2026 | 22.2 km | +752 m / -788 m | 6h | none / end of route |
+
+Final hiking totals: 7 days, 203.3 km, +7,614 m, -9,627 m.

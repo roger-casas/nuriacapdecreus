@@ -246,14 +246,6 @@ button:focus-visible {
   font-weight: 500;
 }
 
-.route-card__summary,
-.route-card__note {
-  margin: 0.5rem 0 0;
-  color: var(--muted);
-  font-size: 0.82rem;
-  line-height: 1.22;
-}
-
 .route-card__meta {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -289,12 +281,6 @@ button:focus-visible {
   display: block;
   margin-top: 0.1rem;
   font-size: 0.92rem;
-}
-
-.route-card__microcopy {
-  margin: 0.55rem 0 0;
-  color: var(--muted);
-  font-size: 0.82rem;
 }
 
 .metric-pill {
@@ -355,14 +341,17 @@ button:focus-visible {
 
 .profile-chart[data-profile-chart-day] {
   cursor: crosshair;
-  touch-action: manipulation;
+  touch-action: none;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
 }
 
 .route-card__profile-wrap {
   flex: 1;
   display: flex;
   align-items: flex-end;
-  padding-top: 0.88rem;
+  padding-top: 0.62rem;
   margin-top: 0.16rem;
   overflow: hidden;
   background: linear-gradient(
@@ -372,6 +361,9 @@ button:focus-visible {
     rgba(15, 118, 110, 0.1) 100%
   );
   border-radius: 18px;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
 }
 
 .route-card__profile-wrap--overview {
